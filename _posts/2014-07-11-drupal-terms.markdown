@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Drupal Terms"
+date:   2014-07-11
+---
 ## Terms you might hear
 
 Node: Basically means "content" in Drupal. Anything from a link resource to a news message is considered a node. 
