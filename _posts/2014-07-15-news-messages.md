@@ -3,8 +3,6 @@ layout: post
 title: "News Messages"
 ---
 
-# Working with news messages
-
 ## Creating a news message
 
 - Go to your dashboard and select "message."

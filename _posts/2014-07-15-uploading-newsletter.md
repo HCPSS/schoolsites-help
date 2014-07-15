@@ -3,7 +3,7 @@ layout: post
 title: "Adding a newsletter"
 ---
 
-## Adding a newsletter
+## How to Upload
 
 - Click on "add content"
 - Select "newsletters"
