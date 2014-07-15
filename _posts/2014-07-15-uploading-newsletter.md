@@ -6,6 +6,8 @@ title: "Adding a newsletter"
 ## How to Upload
 
 - Click on "add content"
+![](/images/add-content.png)
+
 - Select "newsletters"
 - Give it a descriptive title. For example, "EFES Newsletter - 1/1/2014"
   - The published date should be the date listed in the PDF file.
