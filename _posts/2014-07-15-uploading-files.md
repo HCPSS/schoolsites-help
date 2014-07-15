@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Uploading Files"
+---
+
 ## How do I upload a file?
 
 - Go to dashboard in the upper left-hand side of your screen

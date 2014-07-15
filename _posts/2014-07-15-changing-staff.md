@@ -1,3 +1,8 @@
+---
+layout: post
+title: "School Staff Lists"
+---
+
 ## Editing the School Staff List
 
 Your site should already have a School Staff page with all staff members listed. Administrators have a different protocol because they are listed under "About". 

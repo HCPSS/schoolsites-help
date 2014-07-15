@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Adding a newsletter"
+---
+
 ## Adding a newsletter
 
 - Click on "add content"

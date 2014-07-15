@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Editing a page"
+---
+
 ## Editing a page
 
 Chances are you might have a title one, school schedule, or PBIS information page on your site. 

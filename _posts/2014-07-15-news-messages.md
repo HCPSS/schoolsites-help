@@ -1,3 +1,8 @@
+---
+layout: post
+title: "News Messages"
+---
+
 # Working with news messages
 
 ## Creating a news message
