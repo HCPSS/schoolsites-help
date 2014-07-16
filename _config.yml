@@ -1,6 +1,6 @@
 # Site settings
 title: School Site Documentation
-baseurl: "/school-site-help"
+baseurl: "/schoolsites-help"
 
 # Build settings
 markdown: redcarpet
