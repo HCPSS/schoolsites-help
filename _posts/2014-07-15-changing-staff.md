@@ -5,10 +5,13 @@ title: "School Staff Lists"
 
 ## Editing the School Staff List
 
-Your site should already have a School Staff page with all staff members listed. Administrators have a different protocol because they are listed under "About". 
-- To change a staff member, click on the "Our Staff" menu item and then "edit".
+Your site should already have a School Staff page with all staff members listed. School administrators are also listed on your "about" page. Updating that information will be covered at the end of this topic. 
 
-- All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
+To change a staff member, click on the "Our Staff" menu item and then "edit".
+
+![](/school-site-help/images/staff/our-staff-edit.png)
+
+All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
 
 ## Adding a new staff member
 
