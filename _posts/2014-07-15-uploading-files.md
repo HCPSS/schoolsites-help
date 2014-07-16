@@ -21,31 +21,31 @@ Go to dashboard in the upper left-hand side of your screen
 
 Under file management on the right-hand side, select "add & manage files"
 
-![add and manage files](/images/uploading/add-manage.png)
+![add and manage files](/school-site-help/images/uploading/add-manage.png)
 
 Here is where you'll find all of the files that have been uploaded to the site. To add a new file, select "add file"
 
-![add file](/images/uploading/add-file.png)
+![add file](/school-site-help/images/uploading/add-file.png)
 
 Select "choose file" and find the file you would like to upload from your computer. You can select a file up to 20MB in size.
 
-![choose file](/images/uploading/choose-file.png)
+![choose file](/school-site-help/images/uploading/choose-file.png)
 
 After choosing, select next, and leave the destination set to "public local files served by the webserver."
 
-![served by the webserver](/images/uploading/upload-destination.png)
+![served by the webserver](/school-site-help/images/uploading/upload-destination.png)
 
 Selecting next will bring you to a screen where the file "lives." 
 
 Click on the file name under the "view, edit, etc." menu.
 
-![upload confirmation](/images/uploading/upload-confirm.png)
+![upload confirmation](/school-site-help/images/uploading/upload-confirm.png)
 
 Copy the URL address once the file loads. 
 
 The URL should look like this: /sites/default/files/"your-file-name.pdf"
 
-![proper URL](/images/uploading/pdf-url.png)
+![proper URL](/school-site-help/images/uploading/pdf-url.png)
 
 ## Linking to the document
 
@@ -53,43 +53,43 @@ If the document you uploaded was a school supply list, then it should go on the 
 
 Now that we have a clean URL hooked up to the file, navigate over to school resources and click on "edit." 
 
-![proper URL](/images/uploading/school-resources.png)
+![proper URL](/school-site-help/images/uploading/school-resources.png)
 
 Under link resource groups, click on "edit" to the right of Family Resources.
 
-![proper URL](/images/uploading/family-resources.png)
+![proper URL](/school-site-help/images/uploading/family-resources.png)
 
 This opens up a new area that hosts all links within that group. 
 
 Underneath link resources, click on "add new node".
 
-![proper URL](/images/uploading/add-new-node.png)
+![proper URL](/school-site-help/images/uploading/add-new-node.png)
 
 Give your link a name, title (which can be the same), and drop in the URL we had generated for our file. You can also add a description if you'd like to. 
 
-![proper URL](/images/uploading/name-title.png)
+![proper URL](/school-site-help/images/uploading/name-title.png)
 
 It's important to click on "create node" first, then "update node", and finally "save."
 
-![proper URL](/images/uploading/create-update-save.png)
+![proper URL](/school-site-help/images/uploading/create-update-save.png)
 
 ## Deleting a file
 
 If you ever need to delete a file, simply click "edit", then "remove" to get rid of the link resource.
 
-![proper URL](/images/uploading/group-edit.png)
+![proper URL](/school-site-help/images/uploading/group-edit.png)
 
-![proper URL](/images/uploading/remove.png)
+![proper URL](/school-site-help/images/uploading/remove.png)
 
 Drupal will ask you again if you want to remove it and will have a checkbox to "delete this node from the system". 
 
-![proper URL](/images/uploading/remove-system.png)
+![proper URL](/school-site-help/images/uploading/remove-system.png)
 
 If you wanted to delete an item from "forms" and move it over to "family resources" or any other link resource list on the site, don't check the box off to delete it from the system.
 
 Moving a node from one place to another can be done by clicking on "add existing node" and then searching for what you've titled it on your site.
 
-![proper URL](/images/uploading/existing-node.png)
+![proper URL](/school-site-help/images/uploading/existing-node.png)
 
 Once the new "add existing node" area opens up, search for the name of the pre-existing node. It will have a number associated with it, all you have to do is click on the title and then select "add node."
 
