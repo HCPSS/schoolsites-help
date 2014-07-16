@@ -9,11 +9,17 @@ Your site should already have a School Staff page with all staff members listed.
 
 To change a staff member, click on the "Our Staff" menu item and then "edit".
 
+<<<<<<< HEAD
 ![staff edit](/school-site-help/images/staff/our-staff-edit.png)
 
 All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
 
 ![edit department](/school-site-help/images/staff/edit-department.png)
+=======
+![](/school-site-help/images/staff/our-staff-edit.png)
+
+All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
+>>>>>>> FETCH_HEAD
 
 ## Adding a new staff member
 
