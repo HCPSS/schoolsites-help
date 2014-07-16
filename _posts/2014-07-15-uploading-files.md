@@ -3,16 +3,33 @@ layout: post
 title: "Uploading Files"
 ---
 
-## How do I upload a file?
+Go to dashboard in the upper left-hand side of your screen
 
-- Go to dashboard in the upper left-hand side of your screen
-- Under file management on the right-hand side, select "add & manage files"
-- Here is where you'll find all of the files you've uploaded onto the site. To add a new file, select "add file"
-- Select "choose file" and then find the file you would like to upload on your computer. Unlike HCPSS News, you can select a file that's up to 20MB in size. 
-- After uploading, select next, and leave the destination set to "public local files served by the webserver."
-- Clicking on next will bring you to a screen where the file "lives." 
-- Click on the file name under the "view, edit, etc." menu, and then copy the URL once the file loads. 
-- The URL should look like this: /sites/default/files/"yourfilename.pdf"
+Under file management on the right-hand side, select "add & manage files"
+
+![add and manage files](/images/uploading/add-manage.png)
+
+Here is where you'll find all of the files you've uploaded onto the site. To add a new file, select "add file"
+
+![add file](/images/uploading/add-file.png)
+
+Select "choose file" and then find the file you would like to upload on your computer. You can select a file that's up to 20MB in size.
+
+![choose file](/images/uploading/choose-file.png)
+
+After choosing, select next, and leave the destination set to "public local files served by the webserver."
+
+![served by the webserver](/images/uploading/upload-destination.png)
+
+Clicking on next will bring you to a screen where the file "lives." 
+
+Click on the file name under the "view, edit, etc." menu, and then copy the URL once the file loads. 
+
+![upload confirmation](/images/uploading/upload-confirm.png)
+
+The URL should look like this: /sites/default/files/"yourfilename.pdf"
+
+![proper URL](/images/uploading/upload-confirm.png)
 
 ## Linking to the document
 
