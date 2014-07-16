@@ -7,10 +7,12 @@ title: "Uploading Files"
 
 This topic will cover how to replace files if you ever have updated versions to upload on your site. Replacing files is much easier when you've given them "cleaner" file names. 
 
-Don't do this: "School Supply list 2014-15.pdf"
+**Don't do this:** "School Supply list 2014-15.pdf"
+
 - The spaces in this file are problematic for search once it's implemented on your site. The date in the name will make it difficult to upload the 2015-2016 school supply list in the future. 
 
-Do this instead: "school-supply-list.pdf"
+**Do this instead:** "school-supply-list.pdf"
+
 - Using hyphens is friendlier for site search once it's implemented, and the lack of dates allows for an easier file replacement process once the time comes.
 
 ## Uploading
