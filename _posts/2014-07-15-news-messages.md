@@ -5,12 +5,25 @@ title: "News Messages"
 
 ## Creating a news message
 
-- Go to your dashboard and select "message."
-- Give your message a descriptive title.
-- Underneath the description area of the message there are two more fields, tags and links.
-  - Links can be added by creating a new node, or adding an existing one.
-  - For instance, if you added a school supply list under school resources, just add it as an existing node here for users to easily have access to it. 
-- Remember that news messages will appear under the recent news sidebar on your homepage, and also under the news menu tab.
+Go to "add content" and select "message."
+
+![news message](/schoolsites-help/images/news/news-message.png)
+
+Give your message a descriptive title. Within the message you can add links and bold or italicize text. [Refer to the documentation](/schoolsites-help/2014/07/15/editing-page/#wysiwyg) if you're unfamiliar with this process.
+
+![create message](/schoolsites-help/images/news/create-message.png)
+
+Underneath the description area of the message there are two more fields: tags and links.
+
+![create message](/schoolsites-help/images/news/adding-nodes.png)
+
+Links can be added by creating a new node, or adding an existing one.
+
+If you're not familiar with this process, view our [documentation for adding pdf files.](/schoolsites-help/2014/07/15/uploading-files/)
+
+For instance, if you added a school supply list under school resources, just add it as an existing node here for users to easily have access to it. 
+
+Remember that news messages will appear under the recent news sidebar on your homepage, and also under the news menu tab.
 
 ## Creating an important news message
 
