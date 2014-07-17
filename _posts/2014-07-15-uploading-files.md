@@ -1,25 +1,29 @@
 ---
 layout: post
-title: "Uploading Files"
+title: "Uploading Files, Adding Links"
 ---
+
+- [Linking to other websites](#)
+- [Linking to a PDF on my site](#)
+- [Replacing Files](#)
 
 ## File Naming
 
-This topic will cover how to replace files if you ever have updated versions to upload on your site. Replacing files is much easier when you've given them "cleaner" file names. 
+Naming files is an important aspect of effective file management. Replacing files is much easier when you've given them "cleaner" file names. 
 
 **Don't do this:** "School Supply list 2014-15.pdf"
 
-- The spaces in this file are problematic for search once it's implemented on your site. The date in the name will make it difficult to upload the 2015-2016 school supply list in the future. 
+- The spaces in this file are problematic for search once it's implemented on your site. The date in the name will also make it difficult to upload the 2015-2016 school supply list in the future. 
 
 **Do this instead:** "school-supply-list.pdf"
 
 - Using hyphens is friendlier for site search once it's implemented, and the lack of dates allows for an easier file replacement process once the time comes.
 
-## Uploading
+## Uploading a new file
 
-Go to dashboard in the upper left-hand side of your screen
+Go to dashboard in the upper left-hand side of your screen.
 
-Under file management on the right-hand side, select "add & manage files"
+Under file management on the right-hand side, select "add & manage files."
 
 ![add and manage files](/schoolsites-help/images/uploading/add-manage.png)
 
@@ -35,23 +39,23 @@ After choosing, select next, and leave the destination set to "public local file
 
 ![served by the webserver](/schoolsites-help/images/uploading/upload-destination.png)
 
-Selecting next will bring you to a screen where the file "lives." 
+Selecting next will bring you to a page where the file "lives." 
 
 Click on the file name under the "view, edit, etc." menu.
 
 ![upload confirmation](/schoolsites-help/images/uploading/upload-confirm.png)
 
-Copy the URL address once the file loads. 
-
 The URL should look like this: /sites/default/files/"your-file-name.pdf"
 
 ![proper URL](/schoolsites-help/images/uploading/pdf-url.png)
+
+Copy this URL address. 
 
 ## Linking to the document
 
 If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading. For the sake of this exercise, that's where we'll put your file. 
 
-Now that we have a clean URL hooked up to the file, navigate over to school resources and click on "edit." 
+Now that we have a clean URL copied that goes to the file, navigate over to school resources and click on "edit." 
 
 ![proper URL](/schoolsites-help/images/uploading/school-resources.png)
 
@@ -73,24 +77,6 @@ It's important to click on "create node" first, then "update node", and finally 
 
 ![proper URL](/schoolsites-help/images/uploading/create-update-save.png)
 
-## Deleting a file
+## Linking to an external site
 
-If you ever need to delete a file, simply click "edit", then "remove" to get rid of the link resource.
-
-![proper URL](/schoolsites-help/images/uploading/group-edit.png)
-
-![proper URL](/schoolsites-help/images/uploading/remove.png)
-
-Drupal will ask you again if you want to remove it and will have a checkbox to "delete this node from the system". 
-
-![proper URL](/schoolsites-help/images/uploading/remove-system.png)
-
-If you wanted to delete an item from "forms" and move it over to "family resources" or any other link resource list on the site, don't check the box off to delete it from the system.
-
-Moving a node from one place to another can be done by clicking on "add existing node" and then searching for what you've titled it on your site.
-
-![proper URL](/schoolsites-help/images/uploading/existing-node.png)
-
-Once the new "add existing node" area opens up, search for the name of the pre-existing node. It will have a number associated with it, all you have to do is click on the title and then select "add node."
-
-Remember to click on "update node" and then save once everything is in it's right place. 
+You can can link to an external site by  
