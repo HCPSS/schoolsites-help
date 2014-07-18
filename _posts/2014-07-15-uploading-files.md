@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Uploading Files, Adding Links"
+title: "Uploading files"
 ---
 
-- [Linking to other websites](#)
-- [Linking to a PDF on my site](#)
-- [Replacing Files](#)
+This topic explores how to upload a PDF file and link to it on your site. [Replacing files]() is a separate topic, along with [adding links to external sites](/schoolsites-help/2014/07/15/adding-links/) such as sign-up genius. 
 
 ## File Naming
 
@@ -76,7 +74,3 @@ Give your link a name, title (which can be the same), and drop in the URL we had
 It's important to click on "create node" first, then "update node", and finally "save."
 
 ![proper URL](/schoolsites-help/images/uploading/create-update-save.png)
-
-## Linking to an external site
-
-You can can link to an external site by  
