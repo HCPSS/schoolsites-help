@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Adding links to other sites"
+title: "Adding links to documents and other sites"
 ---
+
+This topic covers how to add links to documents in a news message, page section, or basic page. Adding documents to link resource groups (e.g. school resources) is [a different topic.](/schoolsites-help/2014/07/15/uploading-files/)
 
 Adding links to documents hosted by your school site can be done by grabbing the link URL from any file you upload. If you're not sure how to find that URL, please view our documentation on [uploading files](/schoolsites-help/2014/07/15/uploading-files/) before proceeding.
 
