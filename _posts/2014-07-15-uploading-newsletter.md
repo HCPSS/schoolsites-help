@@ -14,7 +14,8 @@ Select "newsletters"
 ![select newsletter](/schoolsites-help/images/newsletter/newsletter-selection.png)
 
 Give it a descriptive title. For example, "EFES Newsletter - 1/1/2014"
-- The published date should be the date listed in the PDF file. Don't worry about listing a time, it's not vital for the attachment. 
+
+The published date should be the date listed in the PDF file. Don't worry about listing a time, it's not vital for the attachment. 
 
 ![name and upload](/schoolsites-help/images/newsletter/name-and-upload.png)
 
