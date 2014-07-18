@@ -73,4 +73,4 @@ Give your link a name, title (which can be the same), and drop in the URL we had
 
 It's important to click on "create node" first, then "update node", and finally "save."
 
-![proper URL](/schoolsites-help/images/uploading/create-update-save.png)
+![proper URL](/schoolsites-help/images/uploading/create-update-save.png) 

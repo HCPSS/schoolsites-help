@@ -79,4 +79,4 @@ Click on "edit" to change their information.
 
 ![admin view](/schoolsites-help/images/staff/edit-admin.png)
 
-Save your changes 
+Save your changes  

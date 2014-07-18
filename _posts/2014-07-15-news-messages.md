@@ -49,4 +49,4 @@ If you already have a message posted on your site, but now want to bring it to y
 
 If you want to post an entirely new message, select "add new node" and then type up your message.
 
-After you've added your message, you can arrange them based on importance. 
+After you've added your message, you can arrange them based on importance.   

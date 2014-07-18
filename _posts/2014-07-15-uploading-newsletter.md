@@ -22,3 +22,4 @@ The published date should be the date listed in the PDF file. Don't worry about 
 After naming it, attach the newsletter. 
 
 Click save, or save and add another if you have more newsletters to upload.
+ 

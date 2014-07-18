@@ -15,4 +15,4 @@ Once the new "add existing node" area opens up, search for the name of the pre-e
 
 It will have a number associated with it, all you have to do is click on the title and then select "add node."
 
-Remember to click on "update node" and then save once everything is in it's right place. 
+Remember to click on "update node" and then save once everything is in it's right place.   

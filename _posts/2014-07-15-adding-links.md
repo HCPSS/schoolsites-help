@@ -9,7 +9,7 @@ Once you have your URL for the file you'd like to link to, highlight the text wh
 
 ![highlight](/schoolsites-help/images/pages/highlight-text.png)
 
-Then, click on the closed chainlink in the editor
+Then, click on the closed chain link in the editor
 
 ![edit page](/schoolsites-help/images/pages/link-editor.png)
 
