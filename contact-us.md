@@ -7,7 +7,7 @@ Please contact us at [webmaster@hcpss.org](mailto:webmaster@hcpss.org)
 
 **Getting a new user added.**
 
-- This request must come from the principal in order to be fulfilled.
+- This request must come from the principal in order to be fulfilled. We will generate your password and username.
 
 **Changing your banner image.**
 
