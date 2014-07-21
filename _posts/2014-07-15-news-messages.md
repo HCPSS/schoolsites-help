@@ -5,10 +5,6 @@ title: "Creating news messages"
 
 News messages will appear under the recent news sidebar on your homepage, and also under the news menu tab.
 
-Go to "add content" and select "message."
-
-![news message](/schoolsites-help/images/news/news-message.png)
-
 Alternatively, you can also go to your dashboard and select "add message" in the News (messages) box. 
 
 ![dashboard message](/schoolsites-help/images/news/dashboard-message.png)
