@@ -7,7 +7,7 @@ title: "Adding a newsletter"
 
 Click on "add content"
 
-![add content](/schoolsites-help/images/newsletter/add-content.png)
+![add content](/schoolsites-help/images/newsletter/add-newsletter.png)
 
 Select "newsletters"
 
