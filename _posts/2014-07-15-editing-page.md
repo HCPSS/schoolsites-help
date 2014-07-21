@@ -9,9 +9,9 @@ Simply navigate to the page you'd like to add content to and click on "edit" to 
 
 ![edit page](/schoolsites-help/images/pages/edit.png)
 
-You can add content to a page in the same way that you type up a word document or HCPSS News Message.
-
 <a name="wysiwyg"></a>
+
+You can add content to a page in the same way that you type up a word document or HCPSS News Message.
 
 ![add content](/schoolsites-help/images/pages/page-wysiwyg.png)
 
