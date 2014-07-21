@@ -15,7 +15,7 @@ Find the file you want to replace. In this case, we'll click on "edit" next to "
 
 ![file library](/schoolsites-help/images/replacing/file-library.png)
 
-Click on "choose file" and navigate to the new file. This new file should have the same name as the old one. 
+Click on "choose file" to open your finder. The new file should have the same name as the old one. 
 
 ![choose file](/schoolsites-help/images/replacing/before-upload.png)
 
@@ -27,7 +27,7 @@ After double-clicking on the file, you should see the file name in the "replace 
 
 ![replace file](/schoolsites-help/images/replacing/after-upload.png)
 
-The follow message should display to let you know your file was successfully replaced. 
+The following message should display to let you know your file was successfully replaced. You do not have to re-copy the URL and replace the link, Drupal does all the work for you. 
 
 ![upload success](/schoolsites-help/images/replacing/upload-success.png)
 

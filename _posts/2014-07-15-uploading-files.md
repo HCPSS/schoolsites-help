@@ -53,7 +53,7 @@ Copy this URL address.
 
 If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading. For the sake of this exercise, that's where we'll put your file. 
 
-Now that we have a clean URL copied that goes to the file, navigate over to school resources and click on "edit." 
+Now that we have a clean URL copied that goes to the file, navigate over to your dashboard and click on "link resource list." 
 
 ![proper URL](/schoolsites-help/images/uploading/school-resources.png)
 

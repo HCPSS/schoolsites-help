@@ -5,17 +5,14 @@ title: "School Staff Lists"
 
 ## Editing the School Staff List
 
-Your site should already have a School Staff page with all staff members listed. School administrators are also listed on your "about" page. Updating that information will be covered at the end of this topic. 
+Your site should already have a School Staff page with all staff members listed. School administrators are also listed on your "about" page. Updating your administrator's information will be covered at the end of this topic. 
 
-To change a staff member, click on the "Our Staff" menu item and then "edit".
+To change a staff member from your dashboard, go to the "arrange and manage lists" section. 
 
 ![staff edit](/schoolsites-help/images/staff/our-staff-edit.png)
 
 All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
-
 ![edit department](/schoolsites-help/images/staff/edit-department.png)
-
-All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
 
 ## Adding a new staff member
 
@@ -23,13 +20,15 @@ After opening up the editing area for a department click on "add new node".
 
 ![new node](/schoolsites-help/images/staff/new-staff-node.png)
 
-Select "create node" once you've put in the right information for your new staff member.
+From here, put in the staff member's information. 
 
 ![create node](/schoolsites-help/images/staff/create-node.png)
 
-Select "update node" and then "save" to commit all changes. 
+Select "create node" after your changes are all set. 
 
 ![update node](/schoolsites-help/images/staff/update-node.png)
+
+Then, select "update node" and "save" to commit all changes. 
 
 ## Moving a pre-existing staff member
 
@@ -43,7 +42,7 @@ Under the current department staff list, click on "add existing node" and search
 
 ![existing node](/schoolsites-help/images/staff/existing-staff-node.png)
 
-After searching for their name, click on "add node.""
+After finding their name, click on "add node.""
 
 ![adding new node](/schoolsites-help/images/staff/move-staff.png)
 
@@ -79,4 +78,4 @@ Click on "edit" to change their information.
 
 ![admin view](/schoolsites-help/images/staff/edit-admin.png)
 
-Save your changes  
+Save the changes when you're done.
