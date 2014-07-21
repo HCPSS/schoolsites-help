@@ -5,11 +5,9 @@ title: "Creating news messages"
 
 News messages will appear under the recent news sidebar on your homepage, and also under the news menu tab.
 
-Alternatively, you can also go to your dashboard and select "add message" in the News (messages) box. 
+Go to your dashboard and select "add message" in the News (messages) box. 
 
 ![dashboard message](/schoolsites-help/images/news/dashboard-message.png)
-
-Either way works just fine. 
 
 Give your message a descriptive title. Within the message you can add links and bold or italicize text. [Refer to the documentation](/schoolsites-help/2014/07/15/editing-page/#wysiwyg) if you're unfamiliar with how to edit text.
 
@@ -21,15 +19,15 @@ Underneath the description area of the message there are two more fields: tags a
 
 Tags cluster related messages into one place. When you add a tag it displays at the bottom of a message as a clickable link. 
 
-If a message is tagged as "8th Grade Field Trip" and you gave another message the same tag, both would pop up on the same page after a user clicks the tag at the bottom of either message. 
-
 Tags are meant to help users discover more about a particular topic. 
 
-Links can be added to the message by creating a new node, or [adding an existing one.](/schoolsites-help/2014/07/15/moving-nodes/)
+If a message was tagged as "8th Grade Field Trip" and you gave a different message the same tag, both would pop up on the same page after a user clicks on the tag at the bottom of either message. 
 
-If you're not familiar with this process, view our [documentation for adding pdf files](/schoolsites-help/2014/07/15/uploading-files/) and [adding links to other sites](/schoolsites-help/2014/07/15/adding-links/).
+Resource inks can be added to the message by creating a new node, or [adding an existing one.](/schoolsites-help/2014/07/15/moving-nodes/)
 
-For instance, if you already added a school supply list under school resources, just add it as an existing node here for users to easily have access to it. 
+For instance, if you already added a school supply list under school resources, just add it as an existing node here for users to easily have access to it.
+
+If you're not familiar with this process, view our [documentation for adding pdf files](/schoolsites-help/2014/07/15/uploading-files/) and [adding links to other sites](/schoolsites-help/2014/07/15/adding-links/). 
 
 ## Creating an important news message
 
