@@ -3,7 +3,7 @@ layout: post
 title: "Replacing Files"
 ---
 
-When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, odd characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/2014/07/15/uploading-files/) in the uploading files documentation. 
+When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/2014/07/15/uploading-files/) in the uploading files documentation. 
 
 When replacing a file, keep the new file's name the same as the old one. 
 
@@ -15,7 +15,7 @@ Find the file you want to replace. In this case, we'll click on "edit" next to "
 
 ![file library](/schoolsites-help/images/replacing/file-library.png)
 
-Click on "choose file" to open your finder. The new file should have the same name as the old one. 
+Click on "choose file" to open your finder. The new file should **have the same name as the old one.**
 
 ![choose file](/schoolsites-help/images/replacing/before-upload.png)
 

@@ -5,9 +5,17 @@ title: "Uploading files"
 
 This topic explores how to upload a PDF file and link to it on your site. [Replacing files]() is a separate topic, along with [adding links to external sites](/schoolsites-help/2014/07/15/adding-links/) such as sign-up genius. 
 
+## Think about it
+
+To make the work less cumbersome on school site managers it's suggested that you try and link to the hcpss.org files as much as possible.
+
+For instance, on [this page](http://www.hcpss.org/about-us/forms/) there are commonly requested forms for field trips, medications, and absences. On [this page](http://www.hcpss.org/parents/) you can find the child abuse training materials for parent chaperones. 
+
+If you link to an hcpss.org hosted file, then whenever that file is updated you will not have to worry about re-uploading the new version. We maintain the content so you won't have to.
+
 ## File Naming
 
-Naming files is an important aspect of effective file management. Replacing files is much easier when you've given them "cleaner" file names. 
+When you are uploading your own files, naming them is an important aspect of effective file management. Replacing files is much easier when you've given them "cleaner" file names. 
 
 **Don't do this:** "School Supply list 2014-15.pdf"
 
@@ -15,7 +23,7 @@ Naming files is an important aspect of effective file management. Replacing file
 
 **Do this instead:** "school-supply-list.pdf"
 
-- Using hyphens is friendlier for site search once it's implemented, and the lack of dates allows for an easier file replacement process once the time comes.
+- Using hyphens is friendlier for site search, and the lack of dates allows for an easier file replacement process once the time comes. Instead of having multiple files with multiple years listed, it's easier to have one generically named file that you can change every once and while. 
 
 ## Uploading a new file
 
@@ -37,11 +45,13 @@ After choosing, select next, and leave the destination set to "public local file
 
 ![served by the webserver](/schoolsites-help/images/uploading/upload-destination.png)
 
-Selecting next will bring you to a page where the file "lives." 
+Selecting next will bring you to a page where the file "lives." Avoid linking to this page because it's for admins only.
 
 Click on the file name under the "view, edit, etc." menu.
 
 ![upload confirmation](/schoolsites-help/images/uploading/upload-confirm.png)
+
+It will bring you to a view of just the file in it's entirety.
 
 The URL should look like this: /sites/default/files/"your-file-name.pdf"
 
@@ -49,9 +59,11 @@ The URL should look like this: /sites/default/files/"your-file-name.pdf"
 
 Copy this URL address. 
 
-## Linking to the document
+## Linking to the document in link resources
 
-If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading. For the sake of this exercise, that's where we'll put your file. 
+These instructions are only for adding a document to a link resource node. Adding files to [pages, page sections and news messages](/schoolsites-help/2014/07/15/adding-links/) is a bit different.
+
+If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading (or where you see fit). For the sake of this exercise, this is where we'll put your file.
 
 Now that we have a clean URL copied that goes to the file, navigate over to your dashboard and click on "link resource list." 
 
@@ -67,7 +79,7 @@ Underneath link resources, click on "add new node".
 
 ![proper URL](/schoolsites-help/images/uploading/add-new-node.png)
 
-Give your link a name, title (which can be the same), and drop in the URL we had generated for our file. You can also add a description if you'd like to. 
+Give your link a name, title (which can be the same), and drop in the URL that was generated for the file. You can also add a description if you'd like to. 
 
 ![proper URL](/schoolsites-help/images/uploading/name-title.png)
 
