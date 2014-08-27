@@ -48,7 +48,7 @@ After finding their name, click on "add node.""
 
 Click on "update node" and then remove them from the list they were previously in.
 
-Be sure that you do not check off the box after you click on remove.
+Be sure that you do not check off the box after you click on remove. Only do this if they have left your school.
 
 ![removing old node](/schoolsites-help/images/staff/old-staff.png)
 
@@ -56,7 +56,7 @@ Click "save" after all changes are complete.
 
 ## Changing administrator information
 
-If you change administrator information on the staff list, the About Us page has their bios and images that need updating as well. 
+If you change administrator information on the staff list, the "About Us" page has their bios, contact information and images that need updating as well. 
 
 In the upper left hand corner of your site, click on "find content"
 
@@ -74,7 +74,7 @@ Your administrators should be shown instead of all the nodes on your site.
 
 ![admin view](/schoolsites-help/images/staff/admin-only-view.png)
 
-Click on "edit" to change their information. 
+Click on "edit" to the far right of their name to change their information. 
 
 ![admin view](/schoolsites-help/images/staff/edit-admin.png)
 
