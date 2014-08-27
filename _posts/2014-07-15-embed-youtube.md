@@ -3,7 +3,7 @@ layout: post
 title: "Embedding a YouTube Video"
 ---
 
-You can embed videos from YouTube in news messages and basic pages. The process is the same for each.
+You can embed videos from YouTube in news messages, page sections and basic pages. The process is the same for each.
 
 If your school wants a YouTube account to upload their own content, it should be maintained by the web manager under an email account that's not personal. YouTube videos will show up in search results, so be sure to have clearance from parents for children in videos. 
 
@@ -35,4 +35,8 @@ Paste the embed code below the text.
 
 Click on "source" again to bring you back to regular editing mode if you have anything else you'd like to edit.
 
-Save your changes. 
+<blockquote>
+  <p><strong>Note:</strong> this process is the same for both page sections and basic pages.</p>
+</blockquote>
+
+Don't forget to save your changes!
