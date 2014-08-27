@@ -23,7 +23,7 @@ There is a style feature for other settings within the editor. These include cen
 
 The centered heading will make a line of text align to the center of the node. When you select this setting in the editor, note that it will not show up until you save. 
 
-The floated image container makes blocks of text flow around an image. This setting only works if you highlight an image in the editor and then select the setting and then save. 
+The floated image container makes blocks of text flow around an image. This setting only works if you highlight an image in the editor, select the setting and then save. 
 
 The well puts a gray box around your text. This is useful if you want to highlight an important link. Highlight the text you want the well to appear around, then select well in the style menu.
 
