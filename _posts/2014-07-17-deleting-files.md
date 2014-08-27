@@ -7,12 +7,14 @@ title: "Deleting nodes"
 
 If you ever need to delete a link resource, simply click "edit", then "remove" to get rid of the link resource.
 
-![proper URL](/schoolsites-help/images/uploading/group-edit.png)
+![edit](/schoolsites-help/images/uploading/group-edit.png)
 
-![proper URL](/schoolsites-help/images/uploading/remove.png)
+![remove](/schoolsites-help/images/uploading/remove.png)
 
-Drupal will ask you again if you want to remove it and will have a checkbox to "delete this node from the system". 
+Drupal will ask you again if you want to remove it and will have a checkbox to "delete this node from the system". Check this box off if you want that node permanently deleted from your school site. 
+
+Not checking this box off will keep the node stored on your site internally for later access if you wanted to re-add it at some other point in time.
 
 ![proper URL](/schoolsites-help/images/uploading/remove-system.png)
 
-However, if you wanted to delete an item from "forms" and move it over to "family resources" (or any other link resource list on the site) don't check the box off to delete it from the system. [Here's how to move pre-existing nodes.](/schoolsites-help/2014/07/15/moving-nodes/) 
+However, if you wanted to delete an item from "forms" and move it over to "family resources" (or any other link resource list on the site) don't check the box off to delete it from the system. [Here's how to move pre-existing nodes around your site.](/schoolsites-help/2014/07/15/moving-nodes/) 
