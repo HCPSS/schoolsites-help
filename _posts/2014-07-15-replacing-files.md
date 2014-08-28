@@ -5,17 +5,17 @@ title: "Replacing Files"
 
 When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/2014/07/15/uploading-files/) in the uploading files documentation. 
 
-When replacing a file, keep the new file's name the same as the old one. 
+When replacing a file it's important to keep the new file's name the same as the old one. 
 
 Go to your dashboard and click on "add and manage files."
 
 ![add and manage](/schoolsites-help/images/uploading/add-manage.png)
 
-Find the file you want to replace. In this case, we'll click on "edit" next to "school-supply-list.pdf"
+Find the file you want to replace and click on "edit."
 
 ![file library](/schoolsites-help/images/replacing/file-library.png)
 
-Click on "choose file" to open your finder. The new file should **have the same name as the old one.**
+Click on "choose file" to open your finder. The new file needs to **have the same name as the old one.**
 
 ![choose file](/schoolsites-help/images/replacing/before-upload.png)
 
