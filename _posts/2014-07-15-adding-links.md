@@ -8,7 +8,7 @@ This topic covers how to add links to documents in a <strong>news message, page 
 Adding links to documents hosted by your school site can be done by grabbing the link URL from any file you upload. If you're not sure how to find that URL, please view our documentation on [uploading files](/schoolsites-help/2014/07/15/uploading-files/) before proceeding.
 
 <blockquote>
-  <p><strong>Note:</strong> you can link to external sites this way as well. (e.g., signupgenius, GAFE files, hcpss.org, etc.)</p>
+  <p><strong>Note:</strong> you can also link to external sites (e.g., signupgenius, GAFE files, hcpss.org, etc.) using these instructions.</p>
 </blockquote>
 
 Once you have your URL for the file you'd like to link to, highlight the text where you want the link to go. This can be anywhere in the body of your node.
