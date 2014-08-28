@@ -3,7 +3,7 @@ layout: post
 title: "Uploading files"
 ---
 
-This topic explores how to upload a PDF file and link to it on your site. [Replacing files]() is a separate topic, along with [adding links to external sites](/schoolsites-help/2014/07/15/adding-links/) such as sign-up genius. 
+This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/2014/07/15/adding-links/) such as sign-up genius. 
 
 ## Think about it
 
@@ -19,7 +19,7 @@ When you are uploading your own files, naming them is an important aspect of eff
 
 **Don't do this:** "School Supply list 2014-15.pdf"
 
-- The spaces in this file are problematic for search once it's implemented on your site. The date in the name will also make it difficult to upload the 2015-2016 school supply list in the future. 
+- The spaces in this file are problematic for search once it's implemented on your site. The date in the name will also make it difficult to upload the new 2015-2016 school supply list in the future. 
 
 **Do this instead:** "school-supply-list.pdf"
 
@@ -33,7 +33,7 @@ Under file management on the right-hand side, select "add & manage files."
 
 ![add and manage files](/schoolsites-help/images/uploading/add-manage.png)
 
-Here is where you'll find all of the files that have been uploaded to the site. To add a new file, select "add file"
+Here is where you'll find all of the files that have been uploaded to the site. To add a new file, select "add file."
 
 ![add file](/schoolsites-help/images/uploading/add-file.png)
 
@@ -63,9 +63,9 @@ Copy this URL address.
 
 These instructions are only for adding a document to a link resource node. Adding files to [pages, page sections and news messages](/schoolsites-help/2014/07/15/adding-links/) is a bit different.
 
-If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading (or where you see fit). For the sake of this exercise, this is where we'll put your file.
+If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading (or where you see fit). For the sake of this exercise, this is where the file will go.
 
-Now that we have a clean URL copied that goes to the file, navigate over to your dashboard and click on "link resource list." 
+Once we have a clean URL copied that goes to the file, navigate over to the dashboard and click on "link resource list." 
 
 ![proper URL](/schoolsites-help/images/uploading/school-resources.png)
 
