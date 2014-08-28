@@ -11,6 +11,8 @@ Go to your dashboard and select "add message" in the News (messages) box.
 
 Give your message a descriptive title. Within the message you can add links and bold or italicize text. [Refer to the documentation](/schoolsites-help/2014/07/15/editing-page/#wysiwyg) if you're unfamiliar with how to edit text.
 
+You can also add links to external sites and documents within your site. [Refer to the documentation](/schoolsites-help/2014/07/15/adding-links/) if you need a refresher on how to add links.
+
 ![create message](/schoolsites-help/images/news/create-message.png)
 
 Underneath the description area of the message there are two more fields: tags and links.
@@ -19,19 +21,13 @@ Underneath the description area of the message there are two more fields: tags a
 
 Tags cluster related messages into one place. When you add a tag it displays at the bottom of a message as a clickable link. 
 
-Tags are meant to help users discover more about a particular topic. 
+Tags are meant to help users discover more about a particular topic by grouping messages together. 
 
-If a message was tagged as "8th Grade Field Trip" and you gave a different message the same tag, both would pop up on the same page after a user clicks on the tag at the bottom of either message. 
-
-Resource inks can be added to the message by creating a new node, or [adding an existing one.](/schoolsites-help/2014/07/15/moving-nodes/)
-
-For instance, if you already added a school supply list under school resources, just add it as an existing node here for users to easily have access to it.
-
-If you're not familiar with this process, view our [documentation for adding pdf files](/schoolsites-help/2014/07/15/uploading-files/) and [adding links to other sites](/schoolsites-help/2014/07/15/adding-links/). 
+If a message was tagged as "8th Grade Field Trip" and you gave a related message the same tag, both would pop up on the same page after a user clicks on the tag at the bottom of either message. 
 
 ## Creating an important news message
 
-Important news messages will appear on your site's home page. The home page is allowed five messages at once, you can cycle them out depending on what message is the most important. 
+Important news messages appear on your site's home page. The home page is allowed five messages at once and you can cycle them out depending on what news message is the most important.
 
 Go to your dashboard and select "Home Page News List"
 
@@ -43,4 +39,6 @@ If you already have a message posted on your site, but now want to bring it to y
 
 If you want to post an entirely new message, select "add new node" and then type up your message.
 
-After you've added your message, you can arrange them based on importance.   
+After you've added your message, you can arrange them based on importance using the directional cross to the left of the title. 
+
+![arrange messages](/schoolsites-help/images/news/arrange-messages.png)  
