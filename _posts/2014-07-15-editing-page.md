@@ -5,7 +5,13 @@ title: "Editing text in a node"
 
 Most nodes on your site can have images, bulleted lists, numbered lists and links to other webpages.
 
-Simply navigate to the page you'd like to add content to and click on "edit" to begin making changes. 
+If you are having trouble finding a node, such as a page section, view the documentation for [finding page sections](/schoolsites-help/2014/07/15/finding-content/).
+
+If you're logged in, simply navigate to the page you'd like to add content to and click on "edit" to begin making changes.
+
+<blockquote>
+<strong>Note:</strong> you can also find content via  your dashboard through search or from one of the administrative lists.
+</blockquote> 
 
 ![edit page](/schoolsites-help/images/pages/edit.png)
 
