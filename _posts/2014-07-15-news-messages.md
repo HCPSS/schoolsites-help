@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Creating news messages"
+category: news
 ---
 
 News messages will appear under the recent news sidebar on your homepage, and also under the news menu tab.

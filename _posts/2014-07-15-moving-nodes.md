@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Moving pre-existing nodes around"
+category: nodes
 ---
 
 If you needed to move a file from family resources over to forms, or even move a staff member from one department to another, you don't have to delete nodes and re-do your work. 

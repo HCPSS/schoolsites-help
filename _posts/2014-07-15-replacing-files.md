@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Replacing Files"
+category: files
 ---
 
 When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/2014/07/15/uploading-files/) in the uploading files documentation. 

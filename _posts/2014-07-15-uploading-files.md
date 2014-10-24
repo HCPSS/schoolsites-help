@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Uploading files"
+category: files
 ---
 
 This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/2014/07/15/adding-links/) such as sign-up genius. 
