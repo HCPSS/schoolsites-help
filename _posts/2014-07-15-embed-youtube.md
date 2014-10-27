@@ -37,7 +37,7 @@ Paste the embed code below the text.
 Click on "source" again to bring you back to regular editing mode if you have anything else you'd like to edit.
 
 <blockquote>
-  <p><strong>Note:</strong> this process is the same for both page sections and basic pages.</p>
+  <p><strong>Note:</strong> this process is the same for news messages, page sections, and basic pages.</p>
 </blockquote>
 
 Don't forget to save your changes!

@@ -4,9 +4,9 @@ title: "Adding links to documents and other sites"
 category: files
 ---
 
-This topic covers how to add links to documents in a <strong>news message, page section, or basic page.</strong> Adding documents to link resource groups (e.g. school resources) is [a different topic.](/schoolsites-help/2014/07/15/uploading-files/)
+This topic covers how to add links to documents in a <strong>news message, page section, or basic page.</strong> Adding documents to link resource groups (e.g. school resources) is [a different topic.](/schoolsites-help/files/2014/07/15/uploading-files/)
 
-Adding links to documents hosted by your school site can be done by grabbing the link URL from any file you upload. If you're not sure how to find that URL, please view our documentation on [uploading files](/schoolsites-help/2014/07/15/uploading-files/) before proceeding.
+Adding links to documents hosted by your school site can be done by grabbing the link URL from any file you upload. If you're not sure how to find that URL, please view our documentation on [uploading files](/schoolsites-help/files/2014/07/15/uploading-files/) before proceeding.
 
 <blockquote>
   <p><strong>Note:</strong> you can also link to external sites (e.g., signupgenius, GAFE files, hcpss.org, etc.) using these instructions.</p>
