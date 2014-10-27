@@ -145,17 +145,17 @@ a:visited { color: #205caa; }
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h2 {font-size:20px; ; margin-bottom: 25px; }
+.home h2 {font-size:25px; ; margin-bottom: 15px; }
 
-.home p {margin-bottom: 20px;}
+.home p {margin-bottom: 10px;}
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 30px; }
+.posts li { margin-bottom: 20px; }
 
 .posts .post-link {
-  font-size: 24px;
-  letter-spacing: -1px;
+  font-size: 18px;
+  letter-spacing: -0.5px;
   line-height: 1;
 }
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Embedding a YouTube Video"
+category: media
 ---
 
 You can embed videos from YouTube in news messages, page sections and basic pages. The process is the same for each.

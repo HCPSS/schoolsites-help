@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adding links to documents and other sites"
+category: files
 ---
 
 This topic covers how to add links to documents in a <strong>news message, page section, or basic page.</strong> Adding documents to link resource groups (e.g. school resources) is [a different topic.](/schoolsites-help/2014/07/15/uploading-files/)

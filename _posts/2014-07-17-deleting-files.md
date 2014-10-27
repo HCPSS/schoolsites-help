@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Deleting nodes"
+category: nodes
 ---
 
 ## Link Resources

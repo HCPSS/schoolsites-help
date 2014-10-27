@@ -8,14 +8,44 @@ layout: default
 
 <p>Explore the topics below for common site functions and troubleshooting. Feel free to contact us at <a href="mailto:webmaster@hcpss.org">webmaster@hcpss.org</a> for additional support.</p>
 
-  <h2>Topics</h2>
+  <h2>Node Management</h2>
 
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.categories.nodes %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>  
+
+  <h2>Document Management</h2>
+
+  <ul class="posts">
+    {% for post in site.categories.files %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
+
+  <h2>Media Management</h2>
+
+  <ul class="posts">
+    {% for post in site.categories.media %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>News</h2>
+
+  <ul class="posts">
+    {% for post in site.categories.news %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>  
 
 </div>

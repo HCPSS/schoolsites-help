@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adding images"
+category: media
 ---
 
 <blockquote>

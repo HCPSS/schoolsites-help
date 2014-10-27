@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Editing text in a node"
+category: nodes
 ---
 
 Most nodes on your site can have images, bulleted lists, numbered lists and links to other webpages.

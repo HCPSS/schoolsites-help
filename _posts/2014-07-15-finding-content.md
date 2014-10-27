@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Finding Page Sections"
+category: nodes
 ---
 
 Pages such as "school services" and "get involved" have page sections. These nodes aren't accessible from the page itself, you have to find them in Drupal. 

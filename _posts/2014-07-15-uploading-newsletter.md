@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adding a newsletter"
+category: news
 ---
 
 ## How to Upload

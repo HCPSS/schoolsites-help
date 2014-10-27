@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "School Staff Lists"
+category: nodes
 ---
 
 ## Editing the School Staff List
