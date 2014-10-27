@@ -6,7 +6,7 @@ category: nodes
 
 Most nodes on your site can have images, bulleted lists, numbered lists and links to other webpages.
 
-If you are having trouble finding a node, such as a page section, view the documentation for [finding page sections](/schoolsites-help/2014/07/15/finding-content/).
+If you are having trouble finding a node, such as a page section, view the documentation for [finding page sections](/schoolsites-help/nodes/2014/07/15/finding-content/).
 
 If you're logged in, simply navigate to the page you'd like to add content to and click on "edit" to begin making changes.
 
@@ -39,5 +39,5 @@ The well puts a gray box around your text. This is useful if you want to highlig
 </blockquote>
 
 <p><strong>Related topics:</strong></p>
-- [Adding links to other sites](/schoolsites-help/2014/07/15/adding-links/)
-- [Adding images](/schoolsites-help/2014/07/15/adding-images/)
+- [Adding links to other sites](/schoolsites-help/files/2014/07/15/adding-links/)
+- [Adding images](/schoolsites-help/media/2014/07/15/adding-images/)
