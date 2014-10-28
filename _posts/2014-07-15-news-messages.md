@@ -42,4 +42,14 @@ If you want to post an entirely new message, select "add new node" and then type
 
 After you've added your message, you can arrange them based on importance using the directional cross to the left of the title. 
 
-![arrange messages](/schoolsites-help/images/news/arrange-messages.png)  
+![arrange messages](/schoolsites-help/images/news/arrange-messages.png)
+
+Remember, these nodes live on the homepage for as long as you want them to. It's entirely up to you when they should be removed. 
+
+To remove a message, simply click remove. 
+
+![remove message](/schoolsites-help/images/news/remove-message.png)
+
+If you want to keep the message on your site, but not on the homepage, don't check off the box. Checking this off will delete it from your homepage and site.
+
+![remove from system](/schoolsites-help/images/news/remove-box.png)
