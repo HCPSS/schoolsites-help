@@ -8,10 +8,14 @@ Most nodes on your site can have images, bulleted lists, numbered lists and link
 
 If you are having trouble finding a node, such as a page section, view the documentation for [finding page sections](/schoolsites-help/nodes/2014/07/15/finding-content/).
 
+<blockquote>
+<strong>Notes:</strong>This exercise demonstrates editing text in a page. This method works within news nodes and page sections as well.
+</blockquote>
+
 If you're logged in, simply navigate to the page you'd like to add content to and click on "edit" to begin making changes.
 
 <blockquote>
-<strong>Note:</strong> you can also find content via  your dashboard through search or from one of the administrative lists.
+<strong>Note:</strong> you can also find content via your dashboard through search or from one of the administrative lists.
 </blockquote> 
 
 ![edit page](/schoolsites-help/images/pages/edit.png)
