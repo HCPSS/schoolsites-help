@@ -55,6 +55,8 @@ Be sure that you do not check off the box after you click on remove. Only do thi
 
 Click "save" after all changes are complete.
 
+<a name="admin-info"></a>
+
 ## Changing administrator information
 
 If you change administrator information on the staff list, the "About Us" page has their bios, contact information and images that need updating as well. 
