@@ -18,7 +18,7 @@ If your event has a start and end time, keep the "show end date" box checked off
 
 If you have an all-day event that starts at a particular time, then leave both boxes unchecked.
 
-Checking off both boxes will give you an all day multi-date range, which is useful for indicating a school's spirit week or testing dates.
+Checking off both boxes will give you an all-day multi-date range, which is useful for indicating a school's spirit week or testing dates.
 
 Add a description if you'd like to, a few sentences is sufficient.
 
