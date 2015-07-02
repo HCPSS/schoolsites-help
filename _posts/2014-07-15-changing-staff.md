@@ -13,6 +13,7 @@ To change a staff member from your dashboard, go to the "arrange and manage list
 ![staff edit](/schoolsites-help/images/staff/our-staff-edit.png)
 
 All departments should be listed. Click on "edit" next to the department where a staff member change is needed. 
+
 ![edit department](/schoolsites-help/images/staff/edit-department.png)
 
 ## Adding a new staff member
