@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deleting nodes"
-category: nodes
+categories: ['nodes' , 'nodes-hs']
 ---
 
 ## Link Resources
