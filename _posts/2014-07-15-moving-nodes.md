@@ -24,6 +24,6 @@ After the "add existing node" area opens up, search for the name of the pre-exis
   <p><strong>Note: </strong>nodes can only be moved around within their "families." For instance, a staff node cannot go on the news page, and a news node cannot go on the link resources page.<p>
 </blockquote> 
 
-The node will have a number associated with it (don't worry about it). Once it's popped up, click on the title and then select "add node." 
+The node will have a number associated with it (*the higher the number, the more recent the content*). Once it's popped up, click on the title and then select "add node." 
 
 Remember to click on "update node" and then save once everything is in it's right place.  
