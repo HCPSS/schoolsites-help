@@ -4,7 +4,7 @@ title: "Managing Files"
 category: nodes-hs
 ---
 
-This topic goes over how to upload a PDF to your site. Galleries and image management is a seperate topic. It's useful if you know how to [add links already](/schoolsites-help/nodes-hs/2015/06/22/toolbar-usage/#links) before going over file management.
+This topic goes over how to upload a PDF to your site. Galleries and image management is a separate topic. It's useful if you know how to [add links already](/schoolsites-help/nodes-hs/2015/06/22/toolbar-usage/#links) before going over file management.
 
 ## Think about it
 
@@ -90,4 +90,4 @@ If you want to delete a file completely from your site, then look for the delete
 
 Alternatively, you could click on delete when you're at the placeholder page as well.
 
-![delete tab](/schoolsites-help/images/hs-files/to-file.png)
+![delete tab](/schoolsites-help/images/hs-files/to-file.png) 
