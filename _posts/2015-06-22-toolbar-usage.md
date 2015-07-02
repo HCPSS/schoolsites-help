@@ -14,6 +14,7 @@ To bold text, highlight a word or words and then click on the bold button. The s
 
 ![bolding text](/schoolsites-help/images/news/bolding-text.png)
 
+<a name="links"></a>
 ## Links
 
 You can link to an external website, or a page that's on your website. 
@@ -37,6 +38,8 @@ Once you have a link ready to go, and you've clicked on the "add link" button, p
 Linking over to a pre-existing piece of content on your current site is easy because it's searchable inside of the link menu. 
 
 Just like before, simply highlight the text you want to turn into a link. Then, search for the piece of content you want to link using anything in the title as the criteria. 
+
+> **This will not work for PDF files.**
 
 Once you've found the content click on the item and it will auto-fill the link area. 
 

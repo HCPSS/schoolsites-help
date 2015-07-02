@@ -16,7 +16,7 @@ If you link to an hcpss.org hosted file, then whenever that file is updated you 
 
 ## File Naming
 
-When you are uploading your own files, naming them is an important aspect of effective file management. Replacing files is much easier when you've given them "cleaner" file names. 
+When you are uploading your own files, naming them is an important aspect of effective file management. Replacing files is much easier once you've given them "cleaner" file names. 
 
 **Don't do this:** "School Supply list 2014-15.pdf"
 
