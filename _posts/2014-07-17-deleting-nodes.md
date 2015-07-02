@@ -22,11 +22,11 @@ However, if you wanted to delete an item from "forms" and move it over to "famil
 
 <a name="news-del"></a>
 
-## News Messages
+## News Messages (and Galleries for HS websites)
 
 Remember, these nodes live on the homepage for as long as you want them to. It's entirely up to you when they should be removed. 
 
-To remove a message, simply click remove. 
+To remove a message or gallery post, simply click remove. 
 
 ![remove message](/schoolsites-help/images/news/remove-message.png)
 
