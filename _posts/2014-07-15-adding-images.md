@@ -4,9 +4,7 @@ title: "Adding images"
 category: media
 ---
 
-<blockquote>
-<strong>Note:</strong> images can only go on basic pages, news messages, and page sections. They cannot go under link resources, even through there's a media manager button. On staff lists, there is an upload area for staff group photos.
-</blockquote>
+> Note: images can only go on basic pages, news messages, and page sections. They cannot go under link resources, even through there's a media manager button. On staff lists, there is an upload area for staff group photos.
 
 To add images, place your cursor in an area below text and on it's own line. Then, click on the image manager button in the editor toolbar. 
 
@@ -19,7 +17,6 @@ Choose an image from your documents, then click on upload.
 After making your selection, keep it set to "public local files served by the webserver" and hit "next."
 
 Don't worry about the alt text and title text, and then click save. The options screen that follows also doesn't have to be changed. 
-
 Hit submit to insert the image. 
 
 If all goes well, your image should go into the editor.
