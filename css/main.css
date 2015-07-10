@@ -143,9 +143,9 @@ a:visited { color: #205caa; }
 
 /* Home styles */
 /* ----------------------------------------------------------*/
-.home h2 {font-size:25px; ; margin-bottom: 15px; padding-bottom:10px; border-bottom: 1px #e7e7e7 solid;}
+.home h1 {font-size:28px; margin-bottom: 15px; padding-bottom:5px; border-bottom: 1px #e7e7e7 solid;}
 
-.home h3 {font-size:20px; ; margin-bottom: 15px; }
+.home h2 {font-size:20px; margin-bottom: 15px; }
 
 .home p {margin-bottom: 10px;}
 
