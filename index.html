@@ -11,12 +11,11 @@ layout: default
 <!-- Begin categories -->
 
 <div class="feature">
-<h1>I work on...</h1>
-<p><a href="#es-ms">Elementary and Middle School Websites</a></p>
-<p><a href="#hs">High School Websites</a></p>
+<h1>I manage the website for a...</h1>
+<p><a href="#es-ms">Elementary School</a></p>
+<p><a href="#es-ms">Middle School</a></p>
+<p><a href="#hs">High School</a></p>
 </div>
-
-   
 
    <h2 id="es-ms">Elementary and Middle School Websites</h2>
    <h3>Node Management</h3>
@@ -32,7 +31,7 @@ layout: default
       <h3>Document Management</h3>
 
       <ul class="posts">
-        {% for post in site.categories.files %}
+        {% for post in site.categories.es-files %}
           <li>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
@@ -59,7 +58,7 @@ layout: default
         {% endfor %}
       </ul>  
 
-      <h2 id="hs">High School Websites</h2>
+   <h2 id="hs">High School Websites</h2>
    <h3>Node Management</h3>
       <ul class="posts">
         {% for post in site.categories.nodes-hs %}
@@ -77,6 +76,15 @@ layout: default
           </li>
         {% endfor %}
       </ul> 
+      
+   <h3>Document Management</h3>
+      <ul class="posts">
+        {% for post in site.categories.files %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
    <h3>News</h3>
       <ul class="posts">
