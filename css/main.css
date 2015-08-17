@@ -143,11 +143,28 @@ a:visited { color: #205caa; }
 
 /* Home styles */
 /* ----------------------------------------------------------*/
-.home h1 {font-size:28px; margin-bottom: 15px; padding-bottom:5px; border-bottom: 1px #e7e7e7 solid;}
+.home h1 {font-size:28px; padding-bottom:5px; }
 
-.home h2 {font-size:20px; margin-bottom: 15px; }
+.home h2 {font-size:22px; margin-bottom: 15px; }
+
+.home h3 {font-size:18px; margin-bottom: 15px; }
 
 .home p {margin-bottom: 10px;}
+
+.home ul {
+  margin-left: 30px;
+}
+
+.feature {
+  background-color: #D3D3D3;
+  width: 60%;
+  margin: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  border-radius: 15px;  
+}
 
 .posts { list-style-type: none; }
 
@@ -355,6 +372,10 @@ a:visited { color: #205caa; }
 @media screen and (max-width: 600px) {
 
   .wrap { padding: 0 12px; }
+  
+  .feature {
+    width: 100%;
+  }
 
   .site-nav {
     position: fixed;
