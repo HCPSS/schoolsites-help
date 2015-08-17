@@ -10,45 +10,16 @@ layout: default
 
 <!-- Begin categories -->
 
-   <h1>High School Websites</h1>
-   <h2>Node Management</h2>
-      <ul class="posts">
-        {% for post in site.categories.nodes-hs %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul> 
+<div class="feature">
+<h1>I work on...</h1>
+<p><a href="#es-ms">Elementary and Middle School Websites</a></p>
+<p><a href="#hs">High School Websites</a></p>
+</div>
 
-   <h2>Homepage Management</h2>
-      <ul class="posts">
-        {% for post in site.categories.hs-homepage-edit %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul> 
+   
 
-   <h2>News</h2>
-      <ul class="posts">
-        {% for post in site.categories.news-hs %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul> 
-
-   <h2>Galleries</h2>
-      <ul class="posts">
-        {% for post in site.categories.hs-gallery-mgmt %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul> 
-
-   <h1>Elementary and Middle School Websites</h1>
-   <h2>Node Management</h2>
+   <h2 id="es-ms">Elementary and Middle School Websites</h2>
+   <h3>Node Management</h3>
 
       <ul class="posts">
         {% for post in site.categories.nodes %}
@@ -58,7 +29,7 @@ layout: default
         {% endfor %}
       </ul>  
 
-      <h2>Document Management</h2>
+      <h3>Document Management</h3>
 
       <ul class="posts">
         {% for post in site.categories.files %}
@@ -68,7 +39,7 @@ layout: default
         {% endfor %}
       </ul>
 
-      <h2>Media Management</h2>
+      <h3>Media Management</h3>
 
       <ul class="posts">
         {% for post in site.categories.media %}
@@ -78,7 +49,7 @@ layout: default
         {% endfor %}
       </ul>
 
-      <h2>News</h2>
+      <h3>News</h3>
 
       <ul class="posts">
         {% for post in site.categories.news %}
@@ -87,6 +58,43 @@ layout: default
           </li>
         {% endfor %}
       </ul>  
+
+      <h2 id="hs">High School Websites</h2>
+   <h3>Node Management</h3>
+      <ul class="posts">
+        {% for post in site.categories.nodes-hs %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul> 
+
+   <h3>Homepage Management</h3>
+      <ul class="posts">
+        {% for post in site.categories.hs-homepage-edit %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul> 
+
+   <h3>News</h3>
+      <ul class="posts">
+        {% for post in site.categories.news-hs %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul> 
+
+   <h3>Galleries</h3>
+      <ul class="posts">
+        {% for post in site.categories.hs-gallery-mgmt %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul> 
   </div>
 
 <!-- End categories -->
