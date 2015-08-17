@@ -25,6 +25,8 @@ You should paste in the link manually if it's going to an external site. Open yo
 
 ![URL bar](/schoolsites-help/images/pages/top-url-bar.png)
 
+If you want to link over to a PDF file that you've uploaded, <a href="/schoolsites-help/files/2014/07/15/uploading-files/#uploading">check out our documentation</a> on how to get the file's link.
+
 Highlight the text you want to turn into a link, and then click on the add link button.
 
 ![add a link](/schoolsites-help/images/pages/add-link.png)

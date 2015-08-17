@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Uploading files"
-category: files
+category: ['files' , 'es-files']
 ---
 
-This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/files/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/files/2014/07/15/adding-links/) such as sign-up genius. 
+This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/files/es-files/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/es-files/2014/07/15/adding-links/) such as sign-up genius. 
 
 ## Think about it
 
@@ -26,6 +26,8 @@ When you are uploading your own files, naming them is an important aspect of eff
 
 - Using hyphens is friendlier for site search, and the lack of dates allows for an easier file replacement process once the time comes. Instead of having multiple files with multiple years listed, it's easier to have one generically named file that you can change every once and while. 
 
+<a id="uploading"></a>
+
 ## Uploading a new file
 
 Go to dashboard in the upper left-hand side of your screen.
@@ -42,7 +44,7 @@ Select "choose file" and find the file you would like to upload from your comput
 
 ![choose file](/schoolsites-help/images/uploading/choose-file.png)
 
-After choosing, select next, and leave the destination set to "public local files served by the webserver."
+After choosing, select next, and leave the destination set to "public local files served by the webserver." **(note that some sites may not have to do this step)**
 
 ![served by the webserver](/schoolsites-help/images/uploading/upload-destination.png)
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Replacing Files"
-category: files
+category: ['files' , 'es-files']
 ---
 
-When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/files/2014/07/15/uploading-files/) in the uploading files documentation. 
+When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/files/es-files/2014/07/15/uploading-files/) in the uploading files documentation. 
 
 When replacing a file it's important to keep the new file's name the same as the old one. 
 
