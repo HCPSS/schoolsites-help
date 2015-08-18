@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embedding a YouTube Video"
-category: media
+category: [ 'media', 'hs-media' ]
 ---
 
 You can embed videos from YouTube in news messages, page sections and basic pages. The process is the same for each.
@@ -14,7 +14,7 @@ Find the YouTube video you'd like to add.
 
 Underneath the video there's a "share" selection. 
 
-Next, click on "embed" and copy the URL it generates. Keep the video size set to 560x315. Leave everything else unchecked. 
+Next, click on "embed". Keep the video size set to 560x315. Make sure that the "show suggested videos when the video finishes" is **NOT** checked off. Copy the URL that is generated.
 
 ![share option](/schoolsites-help/images/youtube/embed-code.png)
 
@@ -36,8 +36,6 @@ Paste the embed code below the text.
 
 Click on "source" again to bring you back to regular editing mode if you have anything else you'd like to edit.
 
-<blockquote>
-  <p><strong>Note:</strong> this process is the same for news messages, page sections, and basic pages.</p>
-</blockquote>
+> **Note:** This process is the same for news messages, page sections (ES/MS sites), and basic pages.
 
 Don't forget to save your changes!
