@@ -64,7 +64,7 @@ Copy this URL address.
 
 ## Linking to the document in link resources
 
-These instructions are only for adding a document to a link resource node. Adding files to [pages, page sections and news messages](/schoolsites-help/files/2014/07/15/adding-links/) is a bit different.
+These instructions are only for adding a document to a link resource node. Adding files to [pages, page sections and news messages](/schoolsites-help/es-files/2014/07/15/adding-links/) is a bit different.
 
 If the document you uploaded was a school supply list, then it should go on the school resources page under the family resources heading (or where you see fit). For the sake of this exercise, this is where the file will go.
 
