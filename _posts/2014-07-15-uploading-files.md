@@ -44,7 +44,6 @@ Select "choose file" and find the file you would like to upload from your comput
 
 ![choose file](/schoolsites-help/images/uploading/choose-file.png)
 
-After choosing, select next, and leave the destination set to "public local files served by the webserver." **(note that some sites may not have to do this step)**
 
 ![served by the webserver](/schoolsites-help/images/uploading/upload-destination.png)
 
