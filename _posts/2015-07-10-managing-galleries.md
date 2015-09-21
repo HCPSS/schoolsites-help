@@ -4,7 +4,7 @@ title: "Managing Galleries"
 category: hs-gallery-mgmt
 ---
 
-Gallery highlights on the homepage are the end-product after creating a gallery. Read more on how to [manage gallery highlights](/schoolsites-help/hs-homepage-edit/2014/07/15/gallery-highlights/).
+Gallery highlights on the homepage are the end-product after creating a gallery. Read more on how to [manage gallery highlights](/schoolsites-help/hs-homepage/2015/07/15/gallery-highlights/).
 
 To begin editing a gallery go to add content, and then gallery.
 

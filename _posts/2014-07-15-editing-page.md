@@ -43,6 +43,6 @@ The well puts a gray box around your text. This is useful if you want to highlig
 </blockquote>
 
 <p><strong>Related topics:</strong></p>
-- [Adding links to other sites](/schoolsites-help/files/2014/07/15/adding-links/)
+- [Adding links to other sites](/schoolsites-help/es-files/2014/07/15/adding-links/)
 - [Adding images](/schoolsites-help/media/2014/07/15/adding-images/)
-- [YouTube Embeds](/schoolsites-help/media/2014/07/15/embed-youtube/)
+- [YouTube Embeds](/schoolsites-help/media/hs-media/2014/07/15/embed-youtube/)

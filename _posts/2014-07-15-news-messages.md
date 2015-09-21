@@ -12,7 +12,7 @@ Go to your dashboard and select "add message" in the News (messages) box.
 
 Give your message a descriptive title. Within the message you can add links and bold or italicize text. [Refer to the documentation](/schoolsites-help/nodes/2014/07/15/editing-page/#wysiwyg) if you're unfamiliar with how to edit text.
 
-You can also add links to external sites and documents within your site. [Refer to the documentation](/schoolsites-help/files/2014/07/15/adding-links/) if you need a refresher on how to add links.
+You can also add links to external sites and documents within your site. [Refer to the documentation](/schoolsites-help/es-files/2014/07/15/adding-links/) if you need a refresher on how to add links.
 
 ![create message](/schoolsites-help/images/news/create-message.png)
 
@@ -44,4 +44,4 @@ After you've added your message, you can arrange them based on importance using 
 
 ![arrange messages](/schoolsites-help/images/news/arrange-messages.png)
 
-[How to delete a news message](/schoolsites-help/nodes/2014/07/17/deleting-files/#news-del)
+[How to delete a news message](/schoolsites-help/nodes/nodes-hs/2014/07/17/deleting-nodes/#news-del)

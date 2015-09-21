@@ -18,7 +18,7 @@ Not checking this box off will keep the node stored on your site internally for 
 
 ![proper URL](/schoolsites-help/images/uploading/remove-system.png)
 
-However, if you wanted to delete an item from "forms" and move it over to "family resources" (or any other link resource list on the site) don't check the box off to delete it from the system. [Here's how to move pre-existing nodes around your site.](/schoolsites-help/nodes/2014/07/15/moving-nodes/) 
+However, if you wanted to delete an item from "forms" and move it over to "family resources" (or any other link resource list on the site) don't check the box off to delete it from the system. [Here's how to move pre-existing nodes around your site.](/schoolsites-help/nodes/nodes-hs/2014/07/15/moving-nodes/) 
 
 <a name="news-del"></a>
 
