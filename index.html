@@ -11,46 +11,55 @@ layout: default
 <!-- Begin categories -->
 
    <h2 id="es-ms">Elementary and Middle School Websites</h2>
-   <p><a href="#hs">Jump to High School Websites</a></p>
-   <h3>Node Management</h3>
+   <div id="list">
+     <h3>Node Management</h3>
+     <div class="hide hide--content">
 
-      <ul class="posts">
-        {% for post in site.categories.nodes %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+        <ul class="posts">
+          {% for post in site.categories.nodes %}
+            <li>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        </div>
 
-      <h3>Document Management</h3>
+        <h3>Document Management</h3>
+        <div class="hide hide--content">
 
-      <ul class="posts">
-        {% for post in site.categories.es-files %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+        <ul class="posts">
+          {% for post in site.categories.es-files %}
+            <li>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        </div>
 
-      <h3>Media Management</h3>
+        <h3>Media Management</h3>
+        <div class="hide hide--content">
 
-      <ul class="posts">
-        {% for post in site.categories.media %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+        <ul class="posts">
+          {% for post in site.categories.media %}
+            <li>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        </div>
 
-      <h3>News</h3>
+        <h3>News</h3>
+        <div class="hide hide--content">
 
-      <ul class="posts">
-        {% for post in site.categories.news %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+        <ul class="posts">
+          {% for post in site.categories.news %}
+            <li>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        </div>
+   </div>
 
    <h2 id="hs">High School Websites</h2>
    <h3>Node Management</h3>
