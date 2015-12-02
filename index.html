@@ -12,7 +12,7 @@ layout: default
 
    <h2 id="es-ms">Elementary and Middle School Websites</h2>
    <div id="list">
-     <h3>Node Management</h3>
+     <h3><i class="fa fa-angle-right fa-2"></i> Node Management</h3>
      <div class="hide hide--content">
 
         <ul class="posts">
@@ -24,7 +24,7 @@ layout: default
         </ul>
         </div>
 
-        <h3>Document Management</h3>
+        <h3><i class="fa fa-angle-right fa-2"></i> Document Management</h3>
         <div class="hide hide--content">
 
         <ul class="posts">
@@ -36,7 +36,7 @@ layout: default
         </ul>
         </div>
 
-        <h3>Media Management</h3>
+        <h3><i class="fa fa-angle-right fa-2"></i> Media Management</h3>
         <div class="hide hide--content">
 
         <ul class="posts">
@@ -48,7 +48,7 @@ layout: default
         </ul>
         </div>
 
-        <h3>News</h3>
+        <h3><i class="fa fa-angle-right fa-2"></i> News</h3>
         <div class="hide hide--content">
 
         <ul class="posts">
@@ -62,7 +62,9 @@ layout: default
    </div>
 
    <h2 id="hs">High School Websites</h2>
-   <h3>Node Management</h3>
+   <div id="list">
+   <h3><i class="fa fa-angle-right fa-2"></i> Node Management</h3>
+   <div class="hide hide--content">
       <ul class="posts">
         {% for post in site.categories.nodes-hs %}
           <li>
@@ -70,8 +72,11 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+   </div>
 
-   <h3>Homepage Management</h3>
+
+   <h3><i class="fa fa-angle-right fa-2"></i> Homepage Management</h3>
+   <div class="hide hide--content">
       <ul class="posts">
         {% for post in site.categories.hs-homepage %}
           <li>
@@ -79,16 +84,22 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+   </div>
 
-   <h3>Document Management</h3>
+
+   <h3><i class="fa fa-angle-right fa-2"></i> Document Management</h3>
+   <div class="hide hide--content">
       <ul class="posts">
           <li>
             <li><a class="post-link" href="/schoolsites-help/nodes-hs/2015/07/02/managing-files/">Managing Files</a></li>
             <li><a class="post-link" href="/schoolsites-help/files/es-files/2015/08/17/metadata/">Adding titles to a PDF</a></li>
           </li>
       </ul>
+   </div>
 
-   <h3>Media Management</h3>
+
+   <h3><i class="fa fa-angle-right fa-2"></i> Media Management</h3>
+   <div class="hide hide--content">
 
       <ul class="posts">
         {% for post in site.categories.hs-media %}
@@ -97,7 +108,10 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-   <h3>News</h3>
+   </div>
+
+   <h3><i class="fa fa-angle-right fa-2"></i> News</h3>
+   <div class="hide hide--content">
       <ul class="posts">
         {% for post in site.categories.news-hs %}
           <li>
@@ -105,8 +119,11 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+   </div>
 
-   <h3>Galleries</h3>
+
+   <h3><i class="fa fa-angle-right fa-2"></i> Galleries</h3>
+   <div class="hide hide--content">
       <ul class="posts">
         {% for post in site.categories.hs-gallery-mgmt %}
           <li>
@@ -114,6 +131,8 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+   </div>
+
   </div>
 
 <!-- End categories -->
