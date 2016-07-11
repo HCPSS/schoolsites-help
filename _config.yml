@@ -3,5 +3,5 @@ title: School Site Documentation
 baseurl: "/schoolsites-help"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
