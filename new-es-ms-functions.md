@@ -27,11 +27,11 @@ If you'd like to be part of the galleries pilot in the future, feel free to <a h
 
 ### Free-form tagging
 
-The tags web managers added before their migration, by using the tagging field on news posts, will carry over to the new sites.
+We've decided to turn off free-form tagging to help web managers better maintain their tagging process. Instead, pre-defined tags can now be accessed via a dropdown in news posts.
 
-We've decided to turn off free-form tagging to help web managers better maintain their tagging process.
+The tags web managers added before their migration, by using the tagging field on news posts, will carry over to the new sites. However, they will not be in the dropdown unless schools have a few in mind they'd like to continue to use.
 
-Pre-defined tags can now be <a href="#tags">accessed via a dropdown</a> in news posts.
+Learn more about <a href="#tags">the new way to tag</a> news posts.
 
 ## What's new or updated?
 
