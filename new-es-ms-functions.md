@@ -5,11 +5,11 @@ title: "New ES/MS Site Functionality"
 
 The new Elementary and Middle School site themes are based on improvements from the High School sites. The majority of site management functions that web managers learned and used in their previous sites still apply. However, there are a few updates that web managers should be aware of. 
 
-## What came over
+## What will come over?
 
 All your previous site's content including news messages, staff listings, basic pages, and the school resources section will be migrated to a new theme. 
 
-## What didn't come over
+## What doesn't come over?
 
 ### Newsletter uploader
 
@@ -31,7 +31,7 @@ The tags web managers added before their migration, by using the tagging field o
 
 Tags can now be <a href="#tags">accessed via a dropdown</a> in news posts.
 
-## What's new or updated
+## What's new or updated?
 
 ### Homepage news list
 
@@ -61,7 +61,7 @@ This section will appear if the news message is featured on your homepage. The h
 
 ### Tagging news messages
 
-There are default tags that we've added to sites that we found were common across other school sites. These tags allow web managers to group related messages together for easy access, and will appear at the bottom of news messages for end-users to click on.
+We've added to default tags sites that we found were common across other school sites. These tags allow web managers to group related messages together for easy access, and will appear at the bottom of news messages for end-users to click on.
 
 If you'd like more tags added to the dropdown, <a href="mailto:webmaster@hcpss.org">contact us</a> and we'll find the best solution.
 
