@@ -69,6 +69,6 @@ If you'd like more tags added to the dropdown, <a href="mailto:webmaster@hcpss.o
 
 ### Indoor Environmental Quality (IEQ) page
 
-This is new for all school sites. Forms will come your school's IEQ team leader (typically the assistant principal) and you'll have to upload them to the IEQ page.
+This is new for all school sites. Forms will come from your school's IEQ team leader (typically the assistant principal) and you'll have to upload them to the IEQ page.
 
 View [a screencast to learn more](https://vimeo.com/180625052){:target="_blank"} about how to add and manage files on the IEQ page.
