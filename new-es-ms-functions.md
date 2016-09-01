@@ -29,7 +29,9 @@ If you'd like to be part of the galleries pilot in the future, feel free to <a h
 
 The tags web managers added before their migration, by using the tagging field on news posts, will carry over to the new sites.
 
-Tags can now be <a href="#tags">accessed via a dropdown</a> in news posts.
+We've decided to turn off free-form tagging to help web managers better maintain their tagging process.
+
+Pre-defined tags can now be <a href="#tags">accessed via a dropdown</a> in news posts.
 
 ## What's new or updated?
 
