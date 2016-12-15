@@ -6,24 +6,22 @@ category: staff
 
 If you change administrator information on the staff list, the "About Us" page has their bios, contact information and images that need updating as well. 
 
-In the upper left hand corner of your site, click on "find content"
+By default, the admins should be listed on the "about our school" page under your "about menu". 
 
-![find content](/schoolsites-help/images/staff/find-content.png)
+![image manager](/schoolsites-help/images/staff/about-menu.png)
 
-This is where all your nodes are listed. At the top of the list there is a box that says "show only items where"
+Most schools should have two adminstrators listed. However, if you get an administrative intern or another adminstrator and need an additional space added for them, contact <a href="mailto:vincent_dubay@hcpss.org">vincent_dubay@hcpss.org</a>
 
-To the right of "type", select "Administrator" and then click "filter"
+### Editing the administrator
 
-![find admin](/schoolsites-help/images/staff/find-admin.png)
+Hover over the administrator's image or name, and click on the editing cog that shows up on the right-hand side of your screen. 
 
-![filter node](/schoolsites-help/images/staff/filter-node.png)
+![image manager](/schoolsites-help/images/staff/cog-edit-admin.png)
 
-Your administrators should be shown instead of all the nodes on your site.
+This brings you to a page where you can edit their information. It's encouraged to have them write up a quick bio for the site, but it's optional. 
 
-![admin view](/schoolsites-help/images/staff/admin-only-view.png)
+In addition, you can upload an image of them. If they do not want an image online or you do not have one, use the stand-in image featured below as a placeholder.
 
-Click on "edit" to the far right of their name to change their information. 
+![image manager](/schoolsites-help/images/staff/placeholder-admin.png)
 
-![admin view](/schoolsites-help/images/staff/edit-admin.png)
-
-Save the changes when you're done.
+Don't forget to save after you've made the changes.

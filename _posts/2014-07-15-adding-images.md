@@ -14,10 +14,11 @@ Choose an image from your documents, then click on upload.
 
 ![upload file](/schoolsites-help/images/pages/upload-file.png)
 
-After making your selection, keep it set to "public local files served by the webserver" and hit "next."
+You'll be brought to a screen with two fields. Don't worry about the title text field, but the **alt text** field is important. 
 
-Don't worry about the alt text and title text, and then click save. The options screen that follows also doesn't have to be changed. 
-Hit submit to insert the image. 
+![alt text field](/schoolsites-help/images/pages/alt-text.png)
+
+Hit save, and the next screen is just a confirmation, so you can hit save again. 
 
 If all goes well, your image should go into the editor.
 
