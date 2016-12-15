@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adding images"
-category: media
+category: images
 ---
 
 > Note: images can only go on basic pages, news messages, and page sections. They cannot go under link resources, even through there's a media manager button. On staff lists, there is an upload area for staff group photos.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick Editing"
-categories: ['nodes' , 'nodes-hs']
+categories: ['edit']
 ---
 
 Formerly, finding certain pieces of content on your site was through either the "find content" feature or by going through the web manager dashboard. 

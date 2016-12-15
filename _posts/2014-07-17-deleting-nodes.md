@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Deleting nodes"
-categories: ['nodes' , 'nodes-hs']
+title: "Deleting site content"
+categories: edit
 ---
 
 ## Link Resources

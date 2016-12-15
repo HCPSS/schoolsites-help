@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Updating the news and event highlights"
-category: hs-homepage
+title: "Updating the homepage highlights"
+category: news
 ---
 
 There's two ways to edit this section of your homepage. The first of which is right from the homepage itself by using the contextual edit feature. Hover over the news area and look for the gear cog on the right-hand side.
@@ -12,7 +12,7 @@ Alternatively, you could go to your dashboard and click on "news and event highl
 
 ![dashboard](/schoolsites-help/images/hs-files/dashboard.png)
 
-![arrange and manage lists](/schoolsites-help/images/hs-files/manage-lists.png)
+![arrange and manage lists](/schoolsites-help/images/news/manage-lists.png)
 
 ## Overview
 

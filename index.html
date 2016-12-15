@@ -10,61 +10,74 @@ layout: default
 
 <!-- Begin categories -->
 
-   <h2 id="es-ms">Elementary and Middle School Websites</h2>
-   <div id="list">
-     <h3><i class="fa fa-angle-right fa-2"></i> Node Management</h3>
-     <div class="hide hide--content">
+   <h2>All school websites</h2>
 
-        <ul class="posts">
-          {% for post in site.categories.nodes %}
-            <li>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        </div>
+   <h3>Images</h3>
+      <ul class="posts">
+        {% for post in site.categories.images %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-        <h3><i class="fa fa-angle-right fa-2"></i> Document Management</h3>
-        <div class="hide hide--content">
+   <h3>Files</h3>
+      <ul class="posts">
+        {% for post in site.categories.files %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-        <ul class="posts">
-          {% for post in site.categories.es-files %}
-            <li>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        </div>
+   <h3>School Staff Lists</h3>
+      <ul class="posts">
+        {% for post in site.categories.staff %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-        <h3><i class="fa fa-angle-right fa-2"></i> Media Management</h3>
-        <div class="hide hide--content">
+   <h3>Content Authoring</h3>
+      <ul class="posts">
+        {% for post in site.categories.edit %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-        <ul class="posts">
-          {% for post in site.categories.media %}
-            <li>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        </div>
+   <h3>Pages</h3>
+      <ul class="posts">
+        {% for post in site.categories.pages %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-        <h3><i class="fa fa-angle-right fa-2"></i> News</h3>
-        <div class="hide hide--content">
+   <h3>News</h3>
+      <ul class="posts">
+        {% for post in site.categories.news %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
 
-        <ul class="posts">
-          {% for post in site.categories.news %}
-            <li>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        </div>
-   </div>
 
-   <h2 id="hs">High School Websites</h2>
-   <div id="list">
-   <h3><i class="fa fa-angle-right fa-2"></i> Node Management</h3>
-   <div class="hide hide--content">
+   <h2 id="hs">Elementary and Middle school website-specific</h2>
+     <h3>School Resources page</h3>
+      <ul class="posts">
+        {% for post in site.categories.resources %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>    
+
+   <h2 id="hs">High school website-specific</h2>
       <ul class="posts">
         {% for post in site.categories.nodes-hs %}
           <li>
@@ -72,68 +85,6 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-   </div>
-
-
-   <h3><i class="fa fa-angle-right fa-2"></i> Homepage Management</h3>
-   <div class="hide hide--content">
-      <ul class="posts">
-        {% for post in site.categories.hs-homepage %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-   </div>
-
-
-   <h3><i class="fa fa-angle-right fa-2"></i> Document Management</h3>
-   <div class="hide hide--content">
-      <ul class="posts">
-          <li>
-            <li><a class="post-link" href="/schoolsites-help/nodes-hs/2015/07/02/managing-files/">Managing Files</a></li>
-            <li><a class="post-link" href="/schoolsites-help/files/es-files/2015/08/17/metadata/">Adding titles to a PDF</a></li>
-          </li>
-      </ul>
-   </div>
-
-
-   <h3><i class="fa fa-angle-right fa-2"></i> Media Management</h3>
-   <div class="hide hide--content">
-
-      <ul class="posts">
-        {% for post in site.categories.hs-media %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-   </div>
-
-   <h3><i class="fa fa-angle-right fa-2"></i> News</h3>
-   <div class="hide hide--content">
-      <ul class="posts">
-        {% for post in site.categories.news-hs %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-   </div>
-
-
-   <h3><i class="fa fa-angle-right fa-2"></i> Galleries</h3>
-   <div class="hide hide--content">
-      <ul class="posts">
-        {% for post in site.categories.hs-gallery-mgmt %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-   </div>
-
-  </div>
 
 <!-- End categories -->
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Finding Page Sections"
-category: nodes
+title: "Finding Content"
+category: edit
 ---
 
 Pages such as "school services" and "get involved" have page sections. These nodes aren't accessible from the page itself, you have to find them in Drupal. Changing your administrators on your "About Us" page is [done similarly.](/schoolsites-help/nodes/2014/07/15/changing-staff/#admin-info)

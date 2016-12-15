@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Replacing Files"
-category: ['files' , 'es-files']
+category: ['files']
 ---
 
-When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/es-files/2014/07/15/uploading-files/) in the uploading files documentation. 
+When uploading a file, it's important to keep the file names consistent and clean. Avoid dates, spaces, unique characters (%, #, $, &, etc.) and underscores. [This is elaborated upon a bit more](/schoolsites-help/nodes/2014/07/15/uploading-files/) in the uploading files documentation. 
 
 When replacing a file it's important to keep the new file's name the same as the old one. 
 
 Go to your dashboard and click on "add and manage files."
 
-![add and manage](/schoolsites-help/images/uploading/add-manage.png)
+![add and manage](/schoolsites-help/images/uploading/add-manage-files.png)
 
-Find the file you want to replace and click on "edit."
+Find the file you want to replace and click on "edit".
 
-![file library](/schoolsites-help/images/replacing/file-library.png)
+![edit file](/schoolsites-help/images/replacing/file-library.png)
 
 Click on "choose file" to open your finder. The new file needs to **have the same name as the old one.**
 
@@ -26,10 +26,8 @@ Find the file on your computer.
 
 After double-clicking on the file, you should see the file name in the "replace file" area. Hit "save" to publish your changes.
 
-![replace file](/schoolsites-help/images/replacing/after-upload.png)
+![replace file](/schoolsites-help/images/save.png)
 
-The following message should display to let you know your file was successfully replaced. You do not have to re-copy the URL and replace the link, Drupal does all the work for you. 
-
-![upload success](/schoolsites-help/images/replacing/upload-success.png)
+Once you've uploaded the file you're brought to the placeholder page again. You do not have to re-copy the URL and replace the link, Drupal does all the work for you. 
 
 Test it out by clicking on the file name. If you can't see the new document, try refreshing the page by holding down shift and then clicking on the refresh button near your URL bar. 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Editing text in a node"
-category: nodes
+title: "Styling text in the site editor"
+category: edit
 ---
 
 Most nodes on your site can have images, bulleted lists, numbered lists and links to other webpages.
@@ -41,8 +41,3 @@ The well puts a gray box around your text. This is useful if you want to highlig
 <blockquote>
   <p><strong>Note:</strong> Only use these one at a time, don't use all of them in one node.</p>
 </blockquote>
-
-<p><strong>Related topics:</strong></p>
-- [Adding links to other sites](/schoolsites-help/es-files/2014/07/15/adding-links/)
-- [Adding images](/schoolsites-help/media/2014/07/15/adding-images/)
-- [YouTube Embeds](/schoolsites-help/media/hs-media/2014/07/15/embed-youtube/)
