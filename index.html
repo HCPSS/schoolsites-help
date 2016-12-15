@@ -10,8 +10,9 @@ layout: default
 
 <!-- Begin categories -->
 
-   <h2>All school websites</h2>
-
+  <h2>Help Topics</h2>
+  <section class="contents">
+  <div class="page-content__col-3">
    <h3>Images</h3>
       <ul class="posts">
         {% for post in site.categories.images %}
@@ -20,7 +21,8 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
+  </div>
+  <div class="page-content__col-3">
    <h3>Files</h3>
       <ul class="posts">
         {% for post in site.categories.files %}
@@ -29,7 +31,8 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
+  </div>
+  <div class="page-content__col-3">
    <h3>School Staff Lists</h3>
       <ul class="posts">
         {% for post in site.categories.staff %}
@@ -38,7 +41,11 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+  </div>
+  </section>
 
+  <section class="contents">
+  <div class="page-content__col-3">
    <h3>Content Authoring</h3>
       <ul class="posts">
         {% for post in site.categories.edit %}
@@ -47,7 +54,8 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
+  </div>
+  <div class="page-content__col-3">
    <h3>Pages</h3>
       <ul class="posts">
         {% for post in site.categories.pages %}
@@ -56,7 +64,8 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
+  </div>
+  <div class="page-content__col-3">
    <h3>News</h3>
       <ul class="posts">
         {% for post in site.categories.news %}
@@ -65,7 +74,8 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
+  </div>
+  </section>
 
    <h2 id="hs">Elementary and Middle school website-specific</h2>
      <h3>School Resources page</h3>
