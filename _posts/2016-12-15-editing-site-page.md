@@ -12,7 +12,7 @@ For instance, if you wanted to get to the editing screen for your school improve
 
 ![access menu](/schoolsites-help/images/pages/edit-sip-menu.png)
 
-Then, click on edit to get to the content of the page, which will allow you to edit the contents of the page.
+Then, click on "edit" to get to the content of the page, which will allow you to edit the contents of the page.
 
 ![edit button on page](/schoolsites-help/images/pages/edit-sip.png)
 

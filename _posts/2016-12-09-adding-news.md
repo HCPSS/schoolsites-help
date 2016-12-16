@@ -14,28 +14,28 @@ Any news that you would post in your newsletter should also live on the site.
 
 ### Bringing your site into your newsletter
 
-The news section of your site can become your newsletter in a few easy steps. This is outlined in the <a href="">news editorial process help topic.</a>
+The news section of your site can become your newsletter in a few easy steps. This is outlined in the <a href="https://vimeo.com/122653964" target="_blank">news editorial process screencast.</a>
 
 ## Adding a news item
 
 To add a news item, go to your dashboard.
 
-![](/schoolsites-help/images/dashboard.png)
+![dashboard image](/schoolsites-help/images/dashboard.png)
 
 In the dashboard, go to "add message". 
 
-![](/schoolsites-help/images/news/add-message.png)
+![add message button image](/schoolsites-help/images/news/add-message.png)
 
 From there, you can add a title. 
 
 Titles should look like **"Book Drive, starts on Dec. 3"**.
 
   - This has the title of the event, and lets parents know when it starts. 
-  - If the news message is date-drive, add the date in the title
+  - If the news message is date-driven, add the date in the title
 
 ## The toolbar
 
-The news message content field is where all your news content goes. The toolbar is universal throughout the website. However, <a href="">that's a different topic</a>. 
+The news message content field is where all your news content goes. The toolbar is universal throughout the website. However, <a href="/schoolsites-help/edit/2014/07/15/editing-page/">that's a different topic</a>. 
 
 Really, the bold and link button are the most important.
 
@@ -84,8 +84,6 @@ Every message tagged as PTSA will push to the news section of their site, and wi
 All tagged PTSA messages also go to a category page with a description on the PTSA. 
 
 ![](/schoolsites-help/images/news/ptsa-page-omhs.png)
-
-## Don't forget to hit save
 
 Once your changes are all set, hit save.
 

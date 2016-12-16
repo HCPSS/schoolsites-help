@@ -18,7 +18,7 @@ Alternatively, you could go to your dashboard and click on "news and event highl
 
 This area is for web managers to keep up to date. The content remains online as long as you want it and can contain a combination of news items and upcoming events.
 
-[Creating news messages is a separate topic](/schoolsites-help/news-hs/2015/06/22/hs-news-messages/) that web managers should have a familiarity with.
+[Creating news messages is a separate topic](/schoolsites-help/news/2016/12/09/adding-news/) that web managers should have a familiarity with.
 
 Sites are allowed up to nine items on the homepage.
 

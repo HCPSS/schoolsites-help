@@ -26,7 +26,7 @@ Clicking on the "school resources" tab in the navigation is the easiest way to e
 
 ## Editing a pre-existing link resource item
 
-To edit a group that already is on the page, hover over the item in the list. 
+To edit an item that is already on the page, hover over the individual item on the list. 
 
 ![hover list](/schoolsites-help/images/resources/hover-list.png)
 
@@ -40,7 +40,13 @@ To add a completely new item to the list, hover over the entirety of the list, t
 
 ![hover list](/schoolsites-help/images/resources/edit-whole-list.png)
 
-From there, you can add the link resource name (e.g., MackinVia) and the title is the same. The URL is for a link to either a document or external website.
+From there, you can click on "add new link resource". 
+
+![](/schoolsites-help/images/resources/add-link-resource-item.png)
+
+You can now edit the link resource name (e.g., MackinVia) and the title, which are both the same. 
+
+The URL is for a link to either a document or external website.
 
 - If you're unfamiliar **with how to get links to PDFs** that you've uploaded, feel free to [review that help topic](/schoolsites-help/files/2016/12/13/uploading-files/)
 
