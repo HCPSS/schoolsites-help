@@ -16,6 +16,8 @@ Choose an image from your documents, then click on upload.
 
 You'll be brought to a screen with two fields. Don't worry about the title text field, but the **alt text** field is important. 
 
+<a id="alt"></a>
+
 Alt text, or alternative text, is what screen readers and other accessibility technologies use to identify images. Alt text should be a brief description of the image, as depicted below, that describes the image as best as possible. 
 
 When a screen reader (which goes through and reads content aloud from the page) hits the image, it will read that text to the screen reader user. 
