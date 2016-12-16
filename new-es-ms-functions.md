@@ -127,29 +127,31 @@ Don’t worry about any other fields.
 
 **Go to "add and manage files" in your dashboard.**
 
-![](/schoolsites-help/images/uploading/add-manage-updated.png)
+![](/schoolsites-help/images/uploading/add-manage-files.png)
 
 Click on "add file".
 
-![](/schoolsites-help/images/uploading/add-new-file-updated.png)
+![](/schoolsites-help/images/uploading/add-file-button.png)
 
 Select “choose file” and find the file you would like to upload from your computer. You can select a file up to 20MB in size.
 
-![](/schoolsites-help/images/uploading/choose-file-updated.png)
+![](/schoolsites-help/images/uploading/choose-file.png)
 
 Click on "next" and you will be brought to a page where the file “lives”.
 
 **Avoid linking to this page** because it’s for admins only.
 
-![](/schoolsites-help/images/uploading/upload-confirm-updated.png)
+![](/schoolsites-help/images/uploading/placeholder-page.png)
 
 Click on the file name under the “view, edit, etc.” menu.
+
+![](/schoolsites-help/images/uploading/get-file-link.png)
 
 It will bring you to a view of just the file in it’s entirety.
 
 The URL should look like this: /sites/default/files/your-file-name.pdf
 
-![](/schoolsites-help/images/uploading/pdf-url-updated.png)
+![](/schoolsites-help/images/uploading/pdf-url.png)
 
 **Copy this URL.**
 
@@ -157,7 +159,7 @@ The URL should look like this: /sites/default/files/your-file-name.pdf
 
 Go back to the dashboard and click on "add message".
 
-![](/schoolsites-help/images/news/add-news-message-updated.png)
+![](/schoolsites-help/images/news/add-message.png)
 
 Inside the news message editor, add a title that has the newsletter's name along with the date it's being released.
 

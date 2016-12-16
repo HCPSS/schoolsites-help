@@ -12,10 +12,6 @@ Anything you add as a news item will always go to the news section of your site 
 
 Any news that you would post in your newsletter should also live on the site. 
 
-### Bringing your site into your newsletter
-
-The news section of your site can become your newsletter in a few easy steps. This is outlined in the <a href="https://vimeo.com/122653964" target="_blank">news editorial process screencast.</a>
-
 ## Adding a news item
 
 To add a news item, go to your dashboard.
