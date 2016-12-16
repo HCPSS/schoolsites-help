@@ -14,4 +14,4 @@ Click on it to open the edit or delete dropdown menu. From here, you can either 
 
 ![edit or delete](/schoolsites-help/images/pages/edit-delete.png)
 
-The same styling rules apply when editing your site's content, this is just an easier way to access nodes. You cannot access menus or images using the contextual editing feature, only text-based nodes or lists such as news items, departments, or school resources.
+The same styling rules apply when editing your site's content, this is just an easier way to access items. You cannot access menus or images using the contextual editing feature, only text-based content or lists such as news items, departments, or school resources.

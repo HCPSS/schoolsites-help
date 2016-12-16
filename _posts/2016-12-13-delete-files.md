@@ -12,7 +12,7 @@ Under file management on the right-hand side, select "add & manage files."
 
 ![add and manage files](/schoolsites-help/images/uploading/add-manage-files.png)
 
-Then, click on the file name that you want to delete. 
+Then, look for the file and click on the file name that you want to delete. 
 
 Once you're in there, click on the delete button above the file name. 
 

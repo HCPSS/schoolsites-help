@@ -4,7 +4,7 @@ title: "Moving or deleting existing staff members"
 category: staff
 ---
 
-Your site should already have a School Staff page with all staff members listed.
+Your site should already have a School Staff page with staff members listed.
 
 To change a staff member, go to the "our staff" item in the navigation. Then, hover over the department you'd like to edit. Click on the gear cog to open up the editor. 
 
@@ -38,7 +38,9 @@ Then, scroll down and hit "save" to save your changes, which will bring you back
 
 Navigate to the new department that the staff member now belongs to on the staff page, and then use the cog to go in and edit. 
 
-In the staff member's new department, hit "add exisiting staff member". This allows us to search for the staff member that we want to add to the department.
+![staff edit](/schoolsites-help/images/staff/edit-staff.png)
+
+In the staff member's new department, hit "add exisiting staff member". This allows us to search for the **existing** staff member that we want to add to the department.
 
 ![search staff](/schoolsites-help/images/staff/add-existing-staff.png)
 

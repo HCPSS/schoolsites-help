@@ -4,13 +4,13 @@ title: "Uploading files"
 category: files
 ---
 
-This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/files/es-files/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/es-files/2014/07/15/adding-links/). 
+This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/files/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/edit/2014/07/15/adding-links/). 
 
 <div id="list">
 <h3><i class="fa fa-angle-right" aria-hidden="true"></i> Pro tip: link to hcpss.org as much as possible</h3>
 	<div class="hide hide--content">
 		<p>To make the work less cumbersome on school site managers it's suggested that you try and link to hcpss.org files as much as possible.</p>
-		<p>For instance, on <a href="http://www.hcpss.org/about-us/forms/">this page</a> there are commonly requested forms for field trips, medications, and absences. On <a href="http://www.hcpss.org/parents/">this page</a> you can find the child abuse training materials for parent chaperones. </p>
+		<p>For instance, on <a href="http://www.hcpss.org/about-us/forms/">this page</a> there are commonly requested forms for field trips, medications, and absences. The <a href="http://www.hcpss.org/health/">Health Services page</a> is also extremely useful for health procedure forms. Also, on <a href="http://www.hcpss.org/parents/">this page</a> you can find the child abuse training materials for parent chaperones. </p>
 		<p>If you link to an hcpss.org hosted file, then whenever that file is updated you will not have to worry about re-uploading the new version. We maintain the content so you won't have to.</p>
 	</div>
 </div>
@@ -25,7 +25,7 @@ This topic explores how to upload a PDF file and link to it on your site. [Repla
 		</ul>
 		<p><strong>Do this instead:</strong> "school-supply-list.pdf"</p>
 		<ul>
-		  <li>Using hyphens is friendlier for site search, and the lack of dates allows for an easier file replacement process once the time comes. Instead of having multiple files with multiple years listed, it's easier to have one generically named file that you can change every once and while. </li>
+		  <li>Using hyphens is friendlier for site search, and the lack of dates allows for an easier file replacement process if the time comes. Instead of having multiple files with multiple years listed, it's easier to have one generically named file that you can change every once and while. </li>
 		</ul>
 	</div>
 </div>
@@ -50,7 +50,7 @@ Select "choose file" and find the file you would like to upload from your comput
 
 ![choose file](/schoolsites-help/images/uploading/choose-file.png)
 
-Selecting next will bring you to a page where the file "lives." Avoid linking to this page because it's for admins only.
+Selecting "next" will bring you to a page where the file "lives." Avoid linking to this page because it's for admins only.
 
 ![placeholder page](/schoolsites-help/images/uploading/placeholder-page.png)
 
@@ -66,4 +66,4 @@ The URL should look like this: /sites/default/files/"your-file-name.pdf"
 
 Copy this URL address. 
 
-Ready to link it on your site? <a href="/schoolsites-help/nodes/2014/07/15/adding-links/">Learn how &rarr;</a>
+Ready to link it on your site? <a href="/schoolsites-help/edit/2014/07/15/adding-links/">Learn how &rarr;</a>

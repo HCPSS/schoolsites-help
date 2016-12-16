@@ -163,6 +163,9 @@ a:visited { color: #205caa; }
   margin-right: 20px;
   background-color: #efefef;
   padding: 20px; 
+  -webkit-box-shadow: 2px 2px 8px #d4d4d4;
+  -moz-box-shadow: 2px 2px 8px #d4d4d4;
+  box-shadow: 2px 2px 8px #d4d4d4;
 }
 
 @media screen and (max-width: 700px) { 
