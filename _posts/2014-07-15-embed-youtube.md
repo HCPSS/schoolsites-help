@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embedding a YouTube Video"
-category: [ 'media', 'hs-media' ]
+category: images
 ---
 
 You can embed videos from YouTube in news messages, page sections and basic pages. The process is the same for each.
@@ -22,9 +22,9 @@ Next, click on "embed". Keep the video size set to 560x315. Make sure that the "
 
 Go to "add message" on your dashboard. 
 
-![dashboard message](/schoolsites-help/images/news/dashboard-message.png)
+![dashboard message](/schoolsites-help/images/news/add-message.png)
 
-Add a title to the message, then the message itself. The ideal place for a YouTube video embed is underneath the message copy. There shouldn't be anything below the video.
+Add a title to the message, then the message itself.
 
 In your editor there should be a "source" button. Click this and your text will change into what looks like a typewriter font. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Updating the news and event highlights"
-category: hs-homepage
+title: "Updating the homepage highlights"
+category: news
 ---
 
 There's two ways to edit this section of your homepage. The first of which is right from the homepage itself by using the contextual edit feature. Hover over the news area and look for the gear cog on the right-hand side.
@@ -12,13 +12,13 @@ Alternatively, you could go to your dashboard and click on "news and event highl
 
 ![dashboard](/schoolsites-help/images/hs-files/dashboard.png)
 
-![arrange and manage lists](/schoolsites-help/images/hs-files/manage-lists.png)
+![arrange and manage lists](/schoolsites-help/images/news/manage-lists.png)
 
 ## Overview
 
 This area is for web managers to keep up to date. The content remains online as long as you want it and can contain a combination of news items and upcoming events.
 
-[Creating news messages is a separate topic](/schoolsites-help/news-hs/2015/06/22/hs-news-messages/) that web managers should have a familiarity with.
+[Creating news messages is a separate topic](/schoolsites-help/news/2016/12/09/adding-news/) that web managers should have a familiarity with.
 
 Sites are allowed up to nine items on the homepage.
 

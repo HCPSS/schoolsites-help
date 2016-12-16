@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick Editing"
-categories: ['nodes' , 'nodes-hs']
+categories: ['edit']
 ---
 
 Formerly, finding certain pieces of content on your site was through either the "find content" feature or by going through the web manager dashboard. 
@@ -14,4 +14,4 @@ Click on it to open the edit or delete dropdown menu. From here, you can either 
 
 ![edit or delete](/schoolsites-help/images/pages/edit-delete.png)
 
-The same styling rules apply when editing your site's content, this is just an easier way to access nodes. You cannot access menus or images using the contextual editing feature, only text-based nodes or lists such as news items, departments, or school resources.
+The same styling rules apply when editing your site's content, this is just an easier way to access items. You cannot access menus or images using the contextual editing feature, only text-based content or lists such as news items, departments, or school resources.

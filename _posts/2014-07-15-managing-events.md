@@ -4,7 +4,13 @@ title: "Managing Events"
 category: news
 ---
 
-To add a new event, click on "add event" on your dashboard.
+## Google Calendar
+
+If you're using a Google calendar on your site, then make all event updates through the Google calendar.
+
+## Site Calendar
+
+To add a new event to your site calendar, click on "add event" on your dashboard.
 
 ![](/schoolsites-help/images/news/add-event.png)
 
@@ -14,13 +20,13 @@ Next, add the date range. Events can be all day (tests, field days) or a specifi
 
 ![](/schoolsites-help/images/news/edit-event.png)
 
-If your event has a start and end time, keep the "show end date" box checked off. Then, enter in the timeframe. Note that it has to be in increments of five (e.g. 5:15 or 3:30). If the event starts and ends on the same day, be sure to keep it set to that particular day in both of the date boxes. Make sure to also check the am and pm prefixes.
+If your event has a start and end time, keep the "show end date" box checked off. Then, enter in the timeframe. Note that it is currently in military time, but we're working on a fix. 
 
-If you have an all-day event that starts at a particular time, then leave both boxes unchecked.
+If the event starts and ends on the same day, be sure to keep it set to that particular day in both of the date boxes. Make sure to also check the am and pm prefixes.
 
-Checking off both boxes will give you an all-day multi-date range, which is useful for indicating a school's spirit week or testing dates.
+If you have an all-day event that starts at a particular time, then leave the box unchecked.
 
-Add a description if you'd like to, a few sentences is sufficient.
+Add a description if you'd like to; a few sentences is sufficient.
 
 Be sure to save your work to push the event live, which will send it directly to your site's calendar and the HCPSS mobile application.
 
