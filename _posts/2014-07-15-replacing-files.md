@@ -16,7 +16,7 @@ Find the file you want to replace and click on "edit".
 
 ![edit file](/schoolsites-help/images/replacing/file-library.png)
 
-Click on "choose file" to open your finder. The new file needs to **have the same name as the old one.**
+Click on "choose file" to open your finder.
 
 ![choose file](/schoolsites-help/images/replacing/before-upload.png)
 
