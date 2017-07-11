@@ -15,20 +15,16 @@ This topic explores how to upload a PDF file and link to it on your site. [Repla
 	</div>
 </div>
 
-<div id="list">
-<h3><i class="fa fa-angle-right" aria-hidden="true"></i> Pro tip: keep dates out of the file names, and make them lowercase</h3>
-	<div class="hide hide--content">
-		<p>When you are uploading your own files, naming them is an important aspect of effective file management. Replacing files is much easier once you've given them "cleaner" file names.</p>
-		<p><strong>Don't do this:</strong> "School Supply list 2016-17.pdf"</p>
-		<ul>
-		  <li>The spaces in this file are problematic for search once it's implemented on your site. The date in the name will also make it difficult to upload the new 2017-2018 school supply list in the future. </li>
-		</ul>
-		<p><strong>Do this instead:</strong> "school-supply-list.pdf"</p>
-		<ul>
-		  <li>Using hyphens is friendlier for site search, and the lack of dates allows for an easier file replacement process if the time comes. Instead of having multiple files with multiple years listed, it's easier to have one generically named file that you can change every once and while. </li>
-		</ul>
-	</div>
-</div>
+<h3>Pro tip: keep dates out of the file names, and make them lowercase</h3>
+<p>When you are uploading your own files, naming them is an important aspect of effective file management. Replacing files is much easier once you've given them "cleaner" file names.</p>
+<p><strong>Don't do this:</strong> "School Supply list 2016-17.pdf"</p>
+<ul>
+  <li>The spaces in this file are problematic for search once it's implemented on your site. The date in the name will also make it difficult to upload the new 2017-2018 school supply list in the future. </li>
+</ul>
+<p><strong>Do this instead:</strong> "school-supply-list.pdf"</p>
+<ul>
+  <li>Using hyphens is friendlier for site search, and the lack of dates allows for an easier file replacement process if the time comes. Instead of having multiple files with multiple years listed, it's easier to have one generically named file that you can change every once and while. </li>
+</ul>
 
 <a id="uploading"></a>
 
