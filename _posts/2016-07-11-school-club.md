@@ -50,9 +50,9 @@ Otherwise, click "save" and this will publish your new club to the clubs page.
 
 ![save](/schoolsites-help/images/uploading/save-button.jpg)
 
-## Editing a Club
+<h2 id="editing">Editing a Club</h2>
 
-To edit a Club listing on your site, go to the "find content" admin page.
+To edit a club listing on your site, go to the "find content" admin page.
 
 ### Finding the Club
 
@@ -68,7 +68,7 @@ After selecting the drop-down menu, a list of categories should be displayed. Af
 
 ![select a club](/schoolsites-help/images/clubs/select-club.jpg)
 
-<h2 id="editing">Editing a Club</h2>
+### Editing Club Information
 
 After filtering to the clubs, select the club you would like to edit. On the right-hand side under "Operations", you will see "edit" and "delete" - select "edit". 
 
