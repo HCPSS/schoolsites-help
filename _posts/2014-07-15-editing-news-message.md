@@ -4,7 +4,7 @@ title: "Editing a news message"
 category: news
 ---
 
-Any news message can be edited by first going to the news page.
+Once you are logged into your website, you can edit news messages by going to the news page.
 
 ![news page](/schoolsites-help/images/news/news-page.png)
 

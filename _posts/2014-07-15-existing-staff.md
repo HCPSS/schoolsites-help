@@ -1,36 +1,24 @@
 ---
 layout: post
-title: "Moving or deleting existing staff members"
+title: "Moving and deleting existing staff members"
 category: staff
 ---
 
 Your site should already have a School Staff page with staff members listed.
 
-To change a staff member, go to the "our staff" item in the navigation. Then, hover over the department you'd like to edit. Click on the gear cog to open up the editor.
+To move or remove an existing staff member, go to the "Our Staff" item in the navigation. Then, hover over the department you'd like to edit. Click on the gear cog to open up the editor.
 
 ![staff edit](/schoolsites-help/images/staff/edit-staff.png)
 
 All staff in that department should be listed.
 
-If a teacher recently switched grades from second to fourth, you can remove them from one section and then move them to another.
-
-First, remove them by clicking on the remove button.
-
-![remove button](/schoolsites-help/images/staff/remove-button.png)
-
-You'll be given two options after clicking remove. There's a difference between the two.
-
-## Moving versus Deleting
-
-### Deleting
-
-**If this staff member has left your building**, then check off the box and hit remove.
+**If a staff member no longer works at your school, check the box that says ‘Delete this staff member’ and then click “Remove.
 
 ![remove button](/schoolsites-help/images/staff/delete.png)
 
 ### Moving
 
-However, if we're just moving them from one department to another, then we do not need to check off the box. Hitting "remove" without checking off the box will just remove them from the department.
+If a staff member is changing departments, leave the “delete this staff member” box UNCHECKEd and simply click “remove.” This will remove the staff member from the department.
 
 ![remove button](/schoolsites-help/images/staff/remove-toggle.png)
 

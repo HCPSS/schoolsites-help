@@ -8,8 +8,6 @@ This topic covers how to add links to documents in a <strong>news message, page 
 
 Adding links to documents hosted by your school site can be done by grabbing the link URL from any file you upload. If you're not sure how to find that URL, please view our documentation on [uploading files](/schoolsites-help/files/2016/12/13/uploading-files/) before proceeding.
 
-> **Note:** you can also link to external sites (e.g., signupgenius, GAFE files, hcpss.org, etc.) using these instructions.
-
 Copy the URL from the site that you'd like to link to. This can be found at the top of the page in the URL bar.
 
 **Do not copy links directly from your email.** Open them first.

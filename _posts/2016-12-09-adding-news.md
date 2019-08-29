@@ -6,9 +6,7 @@ category: news
 
 ## Overview
 
-The most robust feature on the HCPSS school sites is the ability to post news messages.
-
-Anything you add as a news item will always go to the news section of your site in addition to the mobile application. The news section can be accessed by clicking on the news tab in your site's navigation.
+Anything you add as a news item will automatically appear in the the news section of your site as well as in the HCPSS mobile application. The news section can be accessed by clicking on the news tab in your site's navigation.
 
 Any news that you would post in your newsletter should also live on the site.
 
@@ -29,12 +27,6 @@ Titles should look like **"Book Drive, starts on Dec. 3"**.
   - This has the title of the event, and lets parents know when it starts.
   - If the news message is date-driven, add the date in the title
 
-## The toolbar
-
-The news message content field is where all your news content goes. The toolbar is universal throughout the website. However, <a href="/schoolsites-help/edit/2014/07/15/editing-page/">that's a different topic</a>.
-
-Really, the bold and link button are the most important.
-
 ## Writing news content
 
 Brief is better, but remember that content on the web has no limitations on length.
@@ -51,38 +43,6 @@ If you have additional questions, please reach out to Colleen Golden at colleen_
 
 ## News message summary
 
-This also works great because it can easily be added to the the news message summary field.
+The news message summary is the text that will appear on the news page as well as on the homepage if you choose to make the news item a homepage highlight. The summary should be brief and, where appropriate, include a call to action.
 
-![](/schoolsites-help/images/news/news-message-summary.png)
-
-That field is what will show up on the news page.
-
-![](/schoolsites-help/images/news/news-summary-live.png)
-
-### Fitting into the editorial process
-
-That news message summary will form the bulk of your newsletter content. Adding news to your site as soon as you hear about it allows content to go out to your community sooner than a newsletter release.
-
-The news section of your website becomes your newsletter and reduces the amount of time spent crafting a newsletter. <a href="">Learn more about the concept of the news editorial process</a>
-
-## Tags
-
-The tagging feature allows you to group like messages together on to one page.
-
-By default, you may not have tags enabled. However, these can be added by Web Services. Email <a href="mailto:vincent_dubay@hcpss.org">vincent_dubay@hcpss.org</a> about having tags added.
-
-For example, Oakland Mills High School has a tag for their PTSA messages.
-
-Every message tagged as PTSA will push to the news section of their site, and will have a link to the page for the tag at the bottom of the news message.
-
-![](/schoolsites-help/images/news/tags-message.png)
-
-All tagged PTSA messages also go to a category page with a description on the PTSA.
-
-![](/schoolsites-help/images/news/ptsa-page-omhs.png)
-
-Once your changes are all set, hit save.
-
-![](/schoolsites-help/images/save.png)
-
-You can always come back and edit your news messages. However, if you're releasing new content, make a new news message.
+You can always come back and edit your news messages. Keep in mind, though, that editing an existing message does not generate a new news post. So, if the existing message was originally published months ago, editing it won’t move it to the top of your news page. If your goal is to bring attention to new information, your best bet is to copy your existing message, insert the new information, and post it as a new news message. Doing so will place the new message at the top of your news page.

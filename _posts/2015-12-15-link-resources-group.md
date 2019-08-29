@@ -13,7 +13,7 @@ Link resource groups are ideal if you have a large list of links that all relate
 - Links to research databases landing pages
 - Websites of general family resources for parents to take advantage of
 
-Although web managers can go in and add a link resources group, please contact Vincent Dubay (<a href="mailto:vincent_dubay@hcpss.org">vincent_dubay@hcpss.org</a>) to have it added to a page.
+Although web managers can go in and add a link resources group, please contact Jennifer Rose (<a href="mailto:jennifer_rose@hcpss.org">vincent_dubay@hcpss.org</a>) to have it added to a page.
 
 To create a new link resource group, go to "add content" in the left-hand side of your screen.
 

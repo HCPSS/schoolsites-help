@@ -16,16 +16,12 @@ Select "Basic Page" and all editable pages within your site will display.
 
 ![filter pages](/schoolsites-help/images/pages/page-filter.png)
 
-From here, since we're trying to find a page, click on "edit" next to the pages you want to begin working on.
+From here, since we're trying to find a page, click on "edit" next to the pages you want to modify. Then, you'll be brought to the editing screen for that page.
 
 ![filter pages](/schoolsites-help/images/pages/edit-section.png)
 
 Then, you'll be brought to the editing screen for that page.
 
-Save your changes when you're finished.
-
-**Note:** If you go back into "find content" for a new search, you have to hit "reset" before conducting it.
+**Note:** To conduct a new search, click “reset” and enter your new search term/criteria.
 
 ![reset](/schoolsites-help/images/reset-find.png)
-
-**Editing content on your site** is the same across all content types. [Learn more about editing content &rarr;](/schoolsites-help/edit/2014/07/15/editing-page/)
