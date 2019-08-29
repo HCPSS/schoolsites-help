@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Managing Galleries"
-category: nodes-hs
+category: images
 ---
 
 Gallery highlights on the homepage are the end-product after creating a gallery. Read more on how to [manage gallery highlights](/schoolsites-help/hs-homepage/2015/07/15/gallery-highlights/).

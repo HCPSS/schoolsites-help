@@ -63,17 +63,3 @@ If you'd like to make a heading stand out more than just bolding it above a sect
 Headings 2 and 3 are best for use on the sites.
 
 ![adding headings](/schoolsites-help/images/pages/headings.png)
-
-### Additional text styles
-
-There is a style feature for other settings within the editor. These include centered heading, floated image container, and well.
-
-![other styles](/schoolsites-help/images/pages/other-styles.png)
-
-The centered heading will make a line of text align to the center of the node. When you select this setting in the editor, note that it will not show up until you save.
-
-The floated image container makes blocks of text flow around an image. This setting only works if you highlight an image in the editor, select the setting and then save.
-
-The well puts a gray box around your text. This is useful if you want to highlight an important link. Highlight the text you want the well to appear around, then select well in the style menu.
-
-> **Note:** only use these one at a time, don't use all of them in one piece of content.

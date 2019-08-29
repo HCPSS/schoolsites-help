@@ -8,7 +8,7 @@ Page sections are individual blocks of content.
 
 These typically make up the "student services" pages on high school sites and the "get involved" page on elementary and middle school sites.
 
-> Site managers cannot add page sections on their own. Please contact <a href="mailto:vincent_dubay@hcpss.org">vincent_dubay@hpcss.org</a> if you'd like a page section added.
+> Site managers cannot add page sections on their own. Please contact <a href="mailto:jennifer_rose@hcpss.org">jennifer_rose@hpcss.org</a> if you'd like a page section added.
 
 You'll know it's a page section that's editable if you hover over it and see the editing cog appear.
 
