@@ -4,7 +4,7 @@ title: "Uploading files"
 category: files
 ---
 
-This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/files/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/edit/2014/07/15/adding-links/). 
+This topic explores how to upload a PDF file and link to it on your site. [Replacing files](/schoolsites-help/files/2014/07/15/replacing-files/) is a separate topic, along with [adding links to external sites](/schoolsites-help/edit/2014/07/15/adding-links/).
 
 <div id="list">
 <h3><i class="fa fa-angle-right" aria-hidden="true"></i> Pro tip: link to hcpss.org as much as possible</h3>
@@ -60,6 +60,6 @@ The URL should look like this: /sites/default/files/"your-file-name.pdf"
 
 ![proper URL](/schoolsites-help/images/uploading/pdf-url.png)
 
-Copy this URL address. 
+Copy this URL address.
 
 Ready to link it on your site? <a href="/schoolsites-help/edit/2014/07/15/adding-links/">Learn how &rarr;</a>

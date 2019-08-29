@@ -4,9 +4,9 @@ title: "Quick Editing"
 categories: ['edit']
 ---
 
-Formerly, finding certain pieces of content on your site was through either the "find content" feature or by going through the web manager dashboard. 
+Formerly, finding certain pieces of content on your site was through either the "find content" feature or by going through the web manager dashboard.
 
-Now, quick editing (also known as contextual editing) has been enabled on all school websites to make finding content easier for web managers. When you are logged in to edit your site, hovering over most pieces of content causes a tiny gear cog to appear. 
+Now, quick editing (also known as contextual editing) has been enabled on all school websites to make finding content easier for web managers. When you are logged in to edit your site, hovering over most pieces of content causes a tiny gear cog to appear.
 
 ![using contextual editing](/schoolsites-help/images/pages/using-contexutal-editing.png)
 

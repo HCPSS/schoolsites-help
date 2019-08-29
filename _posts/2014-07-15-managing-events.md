@@ -16,11 +16,11 @@ To add a new event to your site calendar, click on "add event" on your dashboard
 
 From there, you can add a title. Be descriptive, but keep it concise.
 
-Next, add the date range. Events can be all day (tests, field days) or a specific timeframe (meetings, dances). 
+Next, add the date range. Events can be all day (tests, field days) or a specific timeframe (meetings, dances).
 
 ![](/schoolsites-help/images/news/edit-event.png)
 
-If your event has a start and end time, keep the "show end date" box checked off. Then, enter in the timeframe. Note that it is currently in military time, but we're working on a fix. 
+If your event has a start and end time, keep the "show end date" box checked off. Then, enter in the timeframe. Note that it is currently in military time, but we're working on a fix.
 
 If the event starts and ends on the same day, be sure to keep it set to that particular day in both of the date boxes. Make sure to also check the am and pm prefixes.
 

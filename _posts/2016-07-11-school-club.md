@@ -26,7 +26,7 @@ The description will show up on the clubs page.
 
 ### Adding Advisors
 
-Up to five advisors can be added. If they're an existing staff member listed on the staff section of the website, click on "add existing advisor". 
+Up to five advisors can be added. If they're an existing staff member listed on the staff section of the website, click on "add existing advisor".
 
 > Typically, you'll never have to use "add new advisor" because advisors are usually existing staff members.
 
@@ -38,13 +38,13 @@ Once the new text box appears, type in the name of the staff member, select thei
 
 ### Adding their website
 
-If the club has a website, add "Website" to the title field, then copy the URL to their website and paste it into the URL field. 
+If the club has a website, add "Website" to the title field, then copy the URL to their website and paste it into the URL field.
 
 ![add website](/schoolsites-help/images/uploading/program-website.jpg)
 
 ### Saving and Viewing the Content
 
-If you'd like to add another club, click "save and add another" to save your current work and move on to add another club listing. 
+If you'd like to add another club, click "save and add another" to save your current work and move on to add another club listing.
 
 Otherwise, click "save" and this will publish your new club to the clubs page.
 
@@ -58,7 +58,7 @@ To edit a club listing on your site, go to the "find content" admin page.
 
 ![find content](/schoolsites-help/images/find-content.png)
 
-After selecting "find content", you will be brought to a screen that lists all the content on your site. 
+After selecting "find content", you will be brought to a screen that lists all the content on your site.
 
 ![find content page](/schoolsites-help/images/clubs/find-content-page.jpg)
 
@@ -70,7 +70,7 @@ After selecting the drop-down menu, a list of categories should be displayed. Af
 
 ### Editing Club Information
 
-After filtering to the clubs, select the club you would like to edit. On the right-hand side under "Operations", you will see "edit" and "delete" - select "edit". 
+After filtering to the clubs, select the club you would like to edit. On the right-hand side under "Operations", you will see "edit" and "delete" - select "edit".
 
 ![select a club to edit](/schoolsites-help/images/clubs/select-edit.jpg)
 
@@ -84,7 +84,7 @@ After clicking "edit", a new page will display four different fields for the clu
 
 ### Adding/Editing the Advisor
 
-The advisor's section displays the teacher or sponsor who oversees the club. This is also the sponsor that is displayed on the site once changes are saved. 
+The advisor's section displays the teacher or sponsor who oversees the club. This is also the sponsor that is displayed on the site once changes are saved.
 
 ![](/schoolsites-help/images/clubs/club-add-advisors.jpg)
 
@@ -100,7 +100,7 @@ If the advisor is no longer with your school, check off the "delete this advisor
 
 #### Adding an Advisor
 
-Up to five advisors can be added. If they're an existing staff member listed on the staff section of the website, click on "add existing advisor". 
+Up to five advisors can be added. If they're an existing staff member listed on the staff section of the website, click on "add existing advisor".
 
 > Typically, you'll never have to use "add new advisor" because advisors are usually existing staff members.
 
@@ -110,4 +110,4 @@ Once the new text box appears, type in the name of the staff member, select thei
 
 ![](/schoolsites-help/images/clubs/club-add-existing-advisor-search.jpg)
 
-When all changes are complete, press "Save" in the bottom right of the screen. You will return to the edited club’s page. 
+When all changes are complete, press "Save" in the bottom right of the screen. You will return to the edited club’s page.

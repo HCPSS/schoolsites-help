@@ -34,7 +34,7 @@ In the dropdown, select whether you want to add an event or news message.
 
 ![existing highlight](/schoolsites-help/images/hs-files/existing-highlight.png)
 
-From here, you can re-arrange your news item's position by using the directional rose to the left of its title. 
+From here, you can re-arrange your news item's position by using the directional rose to the left of its title.
 
 ![existing highlight](/schoolsites-help/images/hs-files/after-adding.png)
 

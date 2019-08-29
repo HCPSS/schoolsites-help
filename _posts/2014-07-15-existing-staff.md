@@ -6,15 +6,15 @@ category: staff
 
 Your site should already have a School Staff page with staff members listed.
 
-To change a staff member, go to the "our staff" item in the navigation. Then, hover over the department you'd like to edit. Click on the gear cog to open up the editor. 
+To change a staff member, go to the "our staff" item in the navigation. Then, hover over the department you'd like to edit. Click on the gear cog to open up the editor.
 
 ![staff edit](/schoolsites-help/images/staff/edit-staff.png)
 
-All staff in that department should be listed. 
+All staff in that department should be listed.
 
 If a teacher recently switched grades from second to fourth, you can remove them from one section and then move them to another.
 
-First, remove them by clicking on the remove button. 
+First, remove them by clicking on the remove button.
 
 ![remove button](/schoolsites-help/images/staff/remove-button.png)
 
@@ -36,7 +36,7 @@ However, if we're just moving them from one department to another, then we do no
 
 Then, scroll down and hit "save" to save your changes, which will bring you back to the staff page.
 
-Navigate to the new department that the staff member now belongs to on the staff page, and then use the cog to go in and edit. 
+Navigate to the new department that the staff member now belongs to on the staff page, and then use the cog to go in and edit.
 
 ![staff edit](/schoolsites-help/images/staff/edit-staff.png)
 
@@ -48,7 +48,7 @@ Start typing out their first or last name, and then click on them. Click on "add
 
 ![search staff](/schoolsites-help/images/staff/search-staff.png)
 
-From there, you can arrange them on the list however you'd like. 
+From there, you can arrange them on the list however you'd like.
 
 ![search staff](/schoolsites-help/images/staff/move-staff.png)
 
@@ -58,9 +58,8 @@ Don't forget to make sure that their title reflects their new position if applic
 
 ![edit staff name](/schoolsites-help/images/staff/edit-name.png)
 
-Note that after you've made any changes to their record, you have to click "update staff member" for the changes to go through. 
+Note that after you've made any changes to their record, you have to click "update staff member" for the changes to go through.
 
 ![update staff](/schoolsites-help/images/staff/update-staff-button.png)
 
 Then, hit "save" to save all your changes.
-

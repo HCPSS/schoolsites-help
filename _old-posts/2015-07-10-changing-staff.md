@@ -26,7 +26,7 @@ Any of these ways work to edit the content.
 
 ## Editing a department
 
-To go in and edit any department click on "edit" next to the department name. 
+To go in and edit any department click on "edit" next to the department name.
 
 ![edit any department](/schoolsites-help/images/hs-staff/edit-any-department.png)
 
@@ -40,7 +40,7 @@ After clicking on edit you will see a list of the associated staff members. You 
 
 ## Removing, adding and editing staff members
 
-If you're replacing a staff member who has left your school, click on remove next to their name and make sure the checkbox is checked off. 
+If you're replacing a staff member who has left your school, click on remove next to their name and make sure the checkbox is checked off.
 
 ![remove staff member](/schoolsites-help/images/hs-staff/remove-staff.png)
 
@@ -103,4 +103,3 @@ After it's all set, click on "create department" and then save.
 You can move your departments around using the directional compasses to the left of the department titles. Be sure to save once you've re-arranged them.
 
 ![move departments around](/schoolsites-help/images/hs-staff/move-around-depts.png)
-

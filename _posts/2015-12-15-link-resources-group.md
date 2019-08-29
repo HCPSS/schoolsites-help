@@ -4,7 +4,7 @@ title: "Adding a new link resources group"
 category: resources
 ---
 
-Link resource groups are ideal if you have a large list of links that all relate to one another in some logical way. 
+Link resource groups are ideal if you have a large list of links that all relate to one another in some logical way.
 
 **For example:**
 
@@ -27,7 +27,7 @@ These empty fields can be populated with the title of your group, such as "Busin
 
 ![add link group](/schoolsites-help/images/resources/link-group-add-field.png)
 
-The link group description is meant for a one to two sentance summary of the link resource group. 
+The link group description is meant for a one to two sentance summary of the link resource group.
 
 The description should be a quick insight into the group's content such as *"The following are some of the stores we have partnerships with. Link your rewards card to AES and these merchants will donate a percentage of your purchases to AES."*
 

@@ -6,15 +6,15 @@ category: resources
 
 All sites have pieces of content called "link resource groups" that are made up of "link resource items".
 
-- **All Elementary and Middle School** sites should already have link resource groups on their "school resources" page in the navigation. 
+- **All Elementary and Middle School** sites should already have link resource groups on their "school resources" page in the navigation.
 
 - **For High school** sites, these are scattered throughout your sites, but commonly appear on the student services page. However, you can usually tell it's a link resource group because of it's formatting.
 
-For example, on Mount Hebron's student services page they have an "additional resources" group with links followed by a description. 
+For example, on Mount Hebron's student services page they have an "additional resources" group with links followed by a description.
 
 ![additional resources](/schoolsites-help/images/resources/additional-resources.png)
 
-This is typically how a link resource group is formatted. 
+This is typically how a link resource group is formatted.
 
 ### Getting to your link resource group
 
@@ -26,7 +26,7 @@ Clicking on the "school resources" tab in the navigation is the easiest way to e
 
 ## Editing a pre-existing link resource item
 
-To edit an item that is already on the page, hover over the individual item on the list. 
+To edit an item that is already on the page, hover over the individual item on the list.
 
 ![hover list](/schoolsites-help/images/resources/hover-list.png)
 
@@ -40,17 +40,17 @@ To add a completely new item to the list, hover over the entirety of the list, t
 
 ![hover list](/schoolsites-help/images/resources/edit-whole-list.png)
 
-From there, you can click on "add new link resource". 
+From there, you can click on "add new link resource".
 
 ![](/schoolsites-help/images/resources/add-link-resource-item.png)
 
-You can now edit the link resource name (e.g., MackinVia) and the title, which are both the same. 
+You can now edit the link resource name (e.g., MackinVia) and the title, which are both the same.
 
 The URL is for a link to either a document or external website.
 
 - If you're unfamiliar **with how to get links to PDFs** that you've uploaded, feel free to [review that help topic](/schoolsites-help/files/2016/12/13/uploading-files/)
 
-- Take a look at **how to get link to external webpages** such as MackinVia and other sites [if you're unfamilar](/schoolsites-help/edit/2014/07/15/adding-links/) 
+- Take a look at **how to get link to external webpages** such as MackinVia and other sites [if you're unfamilar](/schoolsites-help/edit/2014/07/15/adding-links/)
 
 Once you've uploaded the file, drop in the URL that was generated for the file into the URL field. It's reccomended that you add a description for the link resource. This will help users better understand the scope of the link and can provide any other helpful information to them.
 

@@ -20,7 +20,7 @@ From here, go to the attach media section of your gallery and then click "browse
 
 ![attach media](/schoolsites-help/images/hs-files/attach-media.png)
 
-After clicking on attach media navigate to the "web" tab. Paste in the URL from Flickr, and click next. 
+After clicking on attach media navigate to the "web" tab. Paste in the URL from Flickr, and click next.
 
 ![paste in](/schoolsites-help/images/hs-files/paste-in-flickr.png)
 
@@ -42,7 +42,7 @@ From here, go to the attach media section of your gallery and then click "browse
 
 ![attach media](/schoolsites-help/images/hs-files/attach-media.png)
 
-After clicking on attach media navigate to the "web" tab. Paste in the URL from SmugMug, and click next. 
+After clicking on attach media navigate to the "web" tab. Paste in the URL from SmugMug, and click next.
 
 ![paste in](/schoolsites-help/images/hs-files/paste-in-flickr.png)
 
@@ -51,4 +51,3 @@ There will be a defaulted name after clicking next, but feel free to add your ow
 Click save and the image will be added. It also gets added to your site's library if you want to use it again elsewhere.
 
 ![save](/schoolsites-help/images/hs-files/save-button.png)
-

@@ -3,27 +3,27 @@ layout: page
 title: "New ES/MS Site Functionality"
 ---
 
-The new Elementary and Middle School site themes are based on improvements from the High School sites. The majority of site management functions that web managers learned and used in their previous sites still apply. However, there are a few updates that web managers should be aware of. 
+The new Elementary and Middle School site themes are based on improvements from the High School sites. The majority of site management functions that web managers learned and used in their previous sites still apply. However, there are a few updates that web managers should be aware of.
 
 ## What will come over?
 
-All your previous site's content including news messages, staff listings, basic pages, and the school resources section will be migrated to a new theme. 
+All your previous site's content including news messages, staff listings, basic pages, and the school resources section will be migrated to a new theme.
 
 ## What won't come over?
 
 ### Newsletter uploader
 
-The newsletter section is now a deprecated feature. We encourage schools to utilize the news editorial process that we've recently piloted with a few schools. 
+The newsletter section is now a deprecated feature. We encourage schools to utilize the news editorial process that we've recently piloted with a few schools.
 
 View a [screencast](https://vimeo.com/122653964){:target="_blank"} and [instructions](http://hcpss.github.io/school-messenger-help/2014/02/17/editorial-process.html) on the process to learn more.
 
-Feel free to <a href="mailto:webmaster@hcpss.org">contact us</a> if you'd like web services to look at your current news release process. 
+Feel free to <a href="mailto:webmaster@hcpss.org">contact us</a> if you'd like web services to look at your current news release process.
 
 **Still need to upload a PDF newsletter?** <a href="#newsletter-replace">Learn how &darr;</a>
 
 ### Galleries
 
-If you visit the High School websites, they have galleries on their homepages. Web services has decided not to roll this out for Elementary and Middle School websites until we've further refined the authoring process for galleries. 
+If you visit the High School websites, they have galleries on their homepages. Web services has decided not to roll this out for Elementary and Middle School websites until we've further refined the authoring process for galleries.
 
 If you'd like to be part of the galleries pilot in the future, feel free to <a href="mailto:webmaster@hcpss.org">contact us</a>.
 
@@ -39,7 +39,7 @@ Learn more about <a href="#tags">the new way to tag</a> news posts.
 
 ### Homepage news list
 
-Nine news items can now live on the homepage instead of five. These items can still be a mixture of news messages and events. 
+Nine news items can now live on the homepage instead of five. These items can still be a mixture of news messages and events.
 
 To select either a news message or event to add to the homepage, click on the dropdown next to **"add new highlight"** and **"add existing highlight"**.
 
@@ -49,13 +49,13 @@ Select the type of highlight you'd like to get on the homepage, then click **"ad
 
 ### News messages
 
-At the bottom of your news message editor, you'll see a new section for news message summaries. 
+At the bottom of your news message editor, you'll see a new section for news message summaries.
 
-**Best practice:** web managers should copy the first sentence of their news message and paste it into the news message summary field. 
+**Best practice:** web managers should copy the first sentence of their news message and paste it into the news message summary field.
 
 ![](/schoolsites-help/images/es-ms-functionality/news-message-summary.png)
 
-This section will appear if the news message is featured on your homepage. The homepage tile will contain the summary to let users know a bit more about what they're clicking through to. 
+This section will appear if the news message is featured on your homepage. The homepage tile will contain the summary to let users know a bit more about what they're clicking through to.
 
 ![](/schoolsites-help/images/es-ms-functionality/news-message-title.png)
 
@@ -85,15 +85,15 @@ The newsletter section is now a deprecated feature. If your school isn't ready f
 
 ### The newsletter's filename
 
-Before uploading, it's best to prefix the newsletter's file name with the date listed on the PDF itself. For instance, this newsletter is coming out on October 15, 2016. Therefore, the file name should be **"2016-10-15-fres-newsletter.pdf"**. 
+Before uploading, it's best to prefix the newsletter's file name with the date listed on the PDF itself. For instance, this newsletter is coming out on October 15, 2016. Therefore, the file name should be **"2016-10-15-fres-newsletter.pdf"**.
 
-Keep the month second and the day last before the acronym. "fres" should be replaced with your school's acronym. 
+Keep the month second and the day last before the acronym. "fres" should be replaced with your school's acronym.
 
 ### Adding a newsletter title
 
-**Titling is different from naming**. Titling a newsletter can only be done if you are the one turning it from a word document into a PDF. 
+**Titling is different from naming**. Titling a newsletter can only be done if you are the one turning it from a word document into a PDF.
 
-The title is what will show up in search. 
+The title is what will show up in search.
 
 Make it standard practice to change the document title before saving PDFs for your website. This ensures that after it’s uploaded, your site’s search engine will be able to properly go through and display descriptive search result titles for end users.
 
@@ -163,14 +163,14 @@ Go back to the dashboard and click on "add message".
 
 Inside the news message editor, add a title that has the newsletter's name along with the date it's being released.
 
-The content of the message should also have a description of what's in the newsletter. Pick two important topics to preview the content, and add a link to the PDF file's URL that's was copied earlier. 
+The content of the message should also have a description of what's in the newsletter. Pick two important topics to preview the content, and add a link to the PDF file's URL that's was copied earlier.
 
-**Best practice:** add the link in the next that says "view our..." or "read more...". Action verbs are best (not "click here...") to let users know what's on the other side of the link.  
+**Best practice:** add the link in the next that says "view our..." or "read more...". Action verbs are best (not "click here...") to let users know what's on the other side of the link.
 
 ![](/schoolsites-help/images/news/full-news-message-updated.png)
 
 The news message summary can just be the first sentence of the news item. This is what will show up on the homepage tile if it's added to the homepage.
 
-Additionally, we'll be rolling out a tag for schools that are still using PDF newsletters. Under "tags" you may see a newsletter tag. Selecting this will group all the newsletters together under one central tag. 
+Additionally, we'll be rolling out a tag for schools that are still using PDF newsletters. Under "tags" you may see a newsletter tag. Selecting this will group all the newsletters together under one central tag.
 
 Let us know if you can't see the tag and we can add it for you.

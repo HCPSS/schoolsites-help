@@ -6,23 +6,23 @@ category: edit
 
 While you can always access content right from the page itself (see the [quick editing topic](/schoolsites-help/edit/2014/07/17/contextual/)), there is a feature to search for content on your site if you're having an issue finding it.
 
-Click on "find content" in the upper left hand corner of your site. 
+Click on "find content" in the upper left hand corner of your site.
 
 ![find content](/schoolsites-help/images/find-content.png)
 
 From here, you can filter content types for easier access.
 
-Select "Basic Page" and all editable pages within your site will display. 
+Select "Basic Page" and all editable pages within your site will display.
 
 ![filter pages](/schoolsites-help/images/pages/page-filter.png)
 
-From here, since we're trying to find a page, click on "edit" next to the pages you want to begin working on. 
+From here, since we're trying to find a page, click on "edit" next to the pages you want to begin working on.
 
 ![filter pages](/schoolsites-help/images/pages/edit-section.png)
 
 Then, you'll be brought to the editing screen for that page.
 
-Save your changes when you're finished. 
+Save your changes when you're finished.
 
 **Note:** If you go back into "find content" for a new search, you have to hit "reset" before conducting it.
 

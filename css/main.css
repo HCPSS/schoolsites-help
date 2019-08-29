@@ -159,22 +159,22 @@ a:visited { color: #205caa; }
 
 .page-content__col-3 {
   float: left;
-  width: 33.3%;  
+  width: 33.3%;
   margin-right: 20px;
   background-color: #efefef;
-  padding: 20px; 
+  padding: 20px;
   -webkit-box-shadow: 2px 2px 8px #d4d4d4;
   -moz-box-shadow: 2px 2px 8px #d4d4d4;
   box-shadow: 2px 2px 8px #d4d4d4;
 }
 
-@media screen and (max-width: 700px) { 
-  .page-content .contents { 
-    margin-bottom: 0em; 
+@media screen and (max-width: 700px) {
+  .page-content .contents {
+    margin-bottom: 0em;
     -webkit-flex-direction: column;
     flex-direction: column;
   }
-  .page-content__col-3 { 
+  .page-content__col-3 {
     float: left;
     width: 100%;
     margin-bottom: 20px;

@@ -10,7 +10,7 @@ If you are having trouble finding a piece of content, such as a page section, vi
 
 ### How to get to the editing screen for:
 
-- [a basic page](/schoolsites-help/pages/2016/12/15/editing-site-page/) 
+- [a basic page](/schoolsites-help/pages/2016/12/15/editing-site-page/)
 - [a page section](/schoolsites-help/pages/2016/12/13/editing-page-section/)
 - [a news item](/schoolsites-help/news/2016/12/09/adding-news/)
 
@@ -28,11 +28,11 @@ Feel free to bold or italicize text as needed. Just like Microsoft Word, simply 
 
 Microsoft word will bring along extra formatting if pasted right from word into your site. To help avoid the extra formatting, which can cause issues for some users, there is a free program on Mac machines called "TextEdit".
 
-For PC users, the equivalent is Notepad, which can be found from your start menu search. 
+For PC users, the equivalent is Notepad, which can be found from your start menu search.
 
 #### Mac Users
 
-On a Mac, you can use your spotlight search to find the program. Spotlight search is located in the upper right-hand side of your screen. 
+On a Mac, you can use your spotlight search to find the program. Spotlight search is located in the upper right-hand side of your screen.
 
 ![spotlight search](/schoolsites-help/images/spotlight.png)
 
@@ -40,11 +40,11 @@ Then, search for "TextEdit", and it should autocomplete. Click on the first hit,
 
 ![find textedit](/schoolsites-help/images/search-mac-plaintext.png)
 
-From there, go to "format" and then "make plain text", click "OK", and it will drop the toolbar. 
+From there, go to "format" and then "make plain text", click "OK", and it will drop the toolbar.
 
 ![make plaintext](/schoolsites-help/images/format-plain.png)
 
-Now you can take all the text that you have in Word, and paste it into the plain text editor. 
+Now you can take all the text that you have in Word, and paste it into the plain text editor.
 
 This will make it all look like typewriter text, which means it's been stripped of additional formatting.
 
@@ -62,9 +62,9 @@ These additional uploading features involve the toolbar but have a few extra ste
 
 ### Headings
 
-Headings help with separating large sections of content. 
+Headings help with separating large sections of content.
 
-If you'd like to make a heading stand out more than just bolding it above a section of text, first highlight the text. Then, select the heading size under the "normal" dropdown. 
+If you'd like to make a heading stand out more than just bolding it above a section of text, first highlight the text. Then, select the heading size under the "normal" dropdown.
 
 Headings 2 and 3 are best for use on the sites.
 
@@ -72,13 +72,13 @@ Headings 2 and 3 are best for use on the sites.
 
 ### Additional text styles
 
-There is a style feature for other settings within the editor. These include centered heading, floated image container, and well. 
+There is a style feature for other settings within the editor. These include centered heading, floated image container, and well.
 
 ![other styles](/schoolsites-help/images/pages/other-styles.png)
 
-The centered heading will make a line of text align to the center of the node. When you select this setting in the editor, note that it will not show up until you save. 
+The centered heading will make a line of text align to the center of the node. When you select this setting in the editor, note that it will not show up until you save.
 
-The floated image container makes blocks of text flow around an image. This setting only works if you highlight an image in the editor, select the setting and then save. 
+The floated image container makes blocks of text flow around an image. This setting only works if you highlight an image in the editor, select the setting and then save.
 
 The well puts a gray box around your text. This is useful if you want to highlight an important link. Highlight the text you want the well to appear around, then select well in the style menu.
 

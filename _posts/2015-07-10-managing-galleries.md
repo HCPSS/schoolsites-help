@@ -20,7 +20,7 @@ Give the gallery a specific title like "Awards Ceremony - 2015 Delta Scholars" o
 
 ![title and description](/schoolsites-help/images/hs-files/description-title.png)
 
-Gallery description is also useful for giving context around the event or organization you're highlighting. Three sentences is typically enough for a description. 
+Gallery description is also useful for giving context around the event or organization you're highlighting. Three sentences is typically enough for a description.
 
 ## Taxonomy and the Key Image
 
@@ -56,7 +56,7 @@ Keep the name set to the default.
 
 <a name="alt-text"></a>
 
-Change the "alt text" to a quick sentence describing what the image is depicting. This is useful for users with visual impairments using screen readers. 
+Change the "alt text" to a quick sentence describing what the image is depicting. This is useful for users with visual impairments using screen readers.
 
 ![alternative text editing](/schoolsites-help/images/hs-files/alt-text-file-name.png)
 
@@ -66,13 +66,13 @@ Click "save" to add the file you want as a gallery item.
 
 ![save](/schoolsites-help/images/hs-files/save-button.png)
 
-Once you've added the images you can re-arrange their order to your liking using the directional compass. 
+Once you've added the images you can re-arrange their order to your liking using the directional compass.
 
 ![re-arranging images](/schoolsites-help/images/hs-files/image-information.png)
 
 You can replace the photos at any point under the "edit" option (as long as the new ones have the same file name), or remove a photo from the gallery using the "remove" button.
 
-Click "save" at the bottom of the page after the gallery is all set.  
+Click "save" at the bottom of the page after the gallery is all set.
 
 ## Removing or Changing a Gallery
 
@@ -82,7 +82,7 @@ While you're logged in, at the top of any of your pages on the site is the "find
 
 ![find content](/schoolsites-help/images/hs-files/add-content.png)
 
-Clicking on this will bring you to a page with all the content on your site. You can drill down to any content type using the "type" dropdown and then selecting "filter". 
+Clicking on this will bring you to a page with all the content on your site. You can drill down to any content type using the "type" dropdown and then selecting "filter".
 
 ![filter and find content](/schoolsites-help/images/hs-files/type-filter-find.png)
 

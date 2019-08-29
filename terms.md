@@ -8,4 +8,3 @@ title: "Drupal Terms"
 **Link Resource List:** These are lists of groups. For instance, "School Resources" is a link resource list.
 
 **Link Resource Group:** Inside of "School Resources" there are other lists such as "Family Resources" and "Forms".
-

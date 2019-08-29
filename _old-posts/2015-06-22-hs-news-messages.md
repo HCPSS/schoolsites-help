@@ -36,13 +36,13 @@ Try to keep the summaries under one sentence, or 100 words.
 
 ## Tagging messages
 
-There's an associated program field to fill out that site managers don't have to worry about quite yet. Web Services has plans for it in the future, but at the moment it can be left blank. 
+There's an associated program field to fill out that site managers don't have to worry about quite yet. Web Services has plans for it in the future, but at the moment it can be left blank.
 
 However, your messages can certainly be tagged.
 
 ![tagging messages](/schoolsites-help/images/news/tagging-messages.png)
 
-These tags are already configured for your school's website and allow you to categorize messages based on their content. 
+These tags are already configured for your school's website and allow you to categorize messages based on their content.
 
 Select a tag that best fits with your message. However, if there isn't anything that fits, don't worry about tagging the message because it isn't mandatory.
 
@@ -58,7 +58,7 @@ Once your news item is all set, simply hit save and you'll be brought to the new
 
 ## Going back and editing again
 
-Say you want to fix a typo or update a news item after publishing, there's a quick way to get back in and edit. 
+Say you want to fix a typo or update a news item after publishing, there's a quick way to get back in and edit.
 
 Navigate to the item you posted and you'll notice three tabs at the top of the item. Click on "edit" to get back into the news item.
 

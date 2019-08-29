@@ -10,7 +10,7 @@ Adding links to documents hosted by your school site can be done by grabbing the
 
 > **Note:** you can also link to external sites (e.g., signupgenius, GAFE files, hcpss.org, etc.) using these instructions.
 
-Copy the URL from the site that you'd like to link to. This can be found at the top of the page in the URL bar. 
+Copy the URL from the site that you'd like to link to. This can be found at the top of the page in the URL bar.
 
 **Do not copy links directly from your email.** Open them first.
 
@@ -26,7 +26,7 @@ Then, click on the closed chain link in the editor
 
 **Editing content on a high school site?** [Links are a bit different](#hs-links), but we're working on making it the same as the Elementary and Middle schools.
 
-Paste the link of your choice into the URL area, and click "ok" to insert it. 
+Paste the link of your choice into the URL area, and click "ok" to insert it.
 
 ![edit page](/schoolsites-help/images/pages/insert-link.png)
 
@@ -37,4 +37,3 @@ Once the changes are all set in the editor, hit "save" to make everything live.
 On high school sites, you're just pasting in the URL and hitting "insert link".
 
 ![edit page](/schoolsites-help/images/uploading/hs-link-editor.png)
-
