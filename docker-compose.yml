@@ -1,0 +1,10 @@
+services:
+  docs:
+    container_name: school_docs
+    image: reg.hcpss.org/school/docs
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    working_dir: /app
