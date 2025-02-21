@@ -30,6 +30,9 @@ nav:
     - Homepage Highlights: managing-homepage-highlights.md
     - Cloning Content: clone-content.md
     - Newsletters: creating-newsletter.md
+    - advanced-pages.md
+    - adding-hcpss-content.md
+    - adding-content-from-another-school.md
   - faq.md
 extra_css:
   - stylesheets/extra.css
