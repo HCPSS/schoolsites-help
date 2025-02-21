@@ -1,26 +1,9 @@
 # Overview
 
-Your school website is an important part of your communication strategy and is
-aimed at helping you keep your families informed.
+Each HCPSS school has its own website, designed to house and make publicly available information specific to the mission of the school.
 
-## How to Log in
+Each school website is built on a content management system called Drupal, which makes it easy for most anyone with a modest amount of training to edit and maintain.
 
-## Managing content
+Highlighted below are several topics to help you maintain your school's website.  Click on the topic that interests you for detailed information on that topic.
 
-### Concepts
-
-### News
-
-### Events
-
-Provide some background and context, explain choices and alternatives.
-
-## Glossary
-
-A definition list or a glossary:
-
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is the definition of the second term.
+For additional assistance, contact webmaster@hcpss.org.
