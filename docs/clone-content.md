@@ -1,6 +1,10 @@
+---
+tags:
+  - new
+---
 # Clone Content
 
-You can easily create new content based on old content using the new *Clone* 
+You can easily create new content based on old content using the new *Clone*
 feature. You can clone content from the:
 
 ## Context Menu

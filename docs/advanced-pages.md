@@ -1,1 +1,5 @@
+---
+tags:
+  - updated
+---
 # Advanced Pages
