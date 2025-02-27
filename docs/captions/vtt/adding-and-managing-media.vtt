@@ -1,0 +1,546 @@
+﻿WEBVTT
+
+00:00:00.316 --> 00:00:03.316
+I want to talk about managing media
+on your website.
+
+00:00:04.133 --> 00:00:06.683
+On the old site,
+
+00:00:06.683 --> 00:00:10.016
+adding media to your content
+was a two step process.
+
+00:00:10.700 --> 00:00:13.350
+We needed to add it to our media library.
+
+00:00:13.350 --> 00:00:15.150
+Copy the URL.
+
+00:00:15.150 --> 00:00:18.150
+Go to our content and embed the media.
+
+00:00:18.800 --> 00:00:21.950
+Now it's no longer a two step process
+and we don't really need to manage
+
+00:00:21.950 --> 00:00:23.100
+our media here.
+
+00:00:23.100 --> 00:00:25.700
+This is the dashboard.
+
+00:00:25.700 --> 00:00:27.900
+Media block.
+
+00:00:27.900 --> 00:00:30.250
+We can look at our media here.
+
+00:00:30.250 --> 00:00:32.600
+We can edit it.
+
+00:00:32.600 --> 00:00:35.600
+We can if we scroll
+all the way down to the bottom
+
+00:00:35.600 --> 00:00:38.600
+see more, we can search.
+
+00:00:42.050 --> 00:00:44.550
+For media.
+
+00:00:44.550 --> 00:00:46.016
+But ultimately what we want to do
+
+00:00:46.016 --> 00:00:49.016
+is add it to a
+
+00:00:49.516 --> 00:00:50.483
+piece of content.
+
+00:00:50.483 --> 00:00:53.483
+So let's say we have a news message.
+
+00:00:54.766 --> 00:00:58.916
+And we want to add an image to it.
+
+00:01:00.383 --> 00:01:01.350
+Now something to think
+
+00:01:01.350 --> 00:01:04.400
+about
+when you're adding images to your website
+
+00:01:05.333 --> 00:01:09.833
+is that the images need to have
+alternative text for people with vision
+
+00:01:09.833 --> 00:01:14.116
+impairments or other impairments
+that don't allow them to view the image.
+
+00:01:14.483 --> 00:01:16.200
+We don't want to leave them out.
+
+00:01:16.200 --> 00:01:20.416
+We don't want our, you know,
+we want our content to reach everybody.
+
+00:01:20.933 --> 00:01:24.833
+And there's also our legal obligation
+to make sure that our content
+
+00:01:24.833 --> 00:01:28.400
+is accessible
+to those people with disabilities.
+
+00:01:28.883 --> 00:01:30.716
+So let's use an example here.
+
+00:01:30.716 --> 00:01:33.716
+Let's say we wanted to upload this
+
+00:01:33.800 --> 00:01:36.800
+wild cat picture.
+
+00:01:36.916 --> 00:01:39.983
+Now one issue with this picture
+is that it actually contains text
+
+00:01:39.983 --> 00:01:40.916
+within the picture.
+
+00:01:40.916 --> 00:01:44.450
+So we need to make sure that all of that
+text is in our alternative text.
+
+00:02:03.016 --> 00:02:04.283
+We can insert that image.
+
+00:02:06.866 --> 00:02:09.800
+And we're just
+
+00:02:09.800 --> 00:02:12.800
+going to use this as a test.
+
+00:02:17.450 --> 00:02:19.766
+And there's our image.
+
+00:02:19.766 --> 00:02:22.766
+And if you look at the source code
+you can see that
+
+00:02:23.433 --> 00:02:26.300
+when somebody comes through the screen
+reader it's going to read this alt
+
+00:02:26.300 --> 00:02:29.300
+text.
+
+00:02:32.116 --> 00:02:35.116
+So let's delete that.
+
+00:02:35.366 --> 00:02:37.883
+And take a look at another
+
+00:02:37.883 --> 00:02:39.200
+image.
+
+00:02:39.200 --> 00:02:41.700
+Let's say we wanted to post this image
+
+00:02:41.700 --> 00:02:44.700
+about the book fair.
+
+00:02:44.900 --> 00:02:47.900
+Now as you can see, this
+
+00:02:48.166 --> 00:02:51.166
+image contains a lot of text.
+
+00:02:51.200 --> 00:02:52.800
+In order to make this accessible.
+
+00:02:52.800 --> 00:02:57.116
+We would need to take all of this text
+and put it in the alternative text field.
+
+00:02:57.983 --> 00:03:00.050
+That doesn't seem like
+it's really a good idea.
+
+00:03:00.050 --> 00:03:03.500
+Because think of the experience where
+somebody actually using a screen reader
+
+00:03:04.283 --> 00:03:07.133
+for them to have it
+go through all of this text
+
+00:03:07.133 --> 00:03:09.983
+completely without any structure.
+
+00:03:09.983 --> 00:03:12.016
+It's going to be very difficult
+for them to understand.
+
+00:03:13.500 --> 00:03:15.083
+Instead, what you should do
+
+00:03:15.083 --> 00:03:18.083
+is anytime
+you have an image with text in it,
+
+00:03:19.316 --> 00:03:22.966
+you need to put the text that's
+in the image, actually in the news post.
+
+00:03:23.750 --> 00:03:26.900
+Now, what you would do
+
+00:03:26.900 --> 00:03:30.350
+is go back
+to the person who created the image
+
+00:03:30.900 --> 00:03:33.900
+and ask them for a
+
+00:03:34.883 --> 00:03:38.250
+text document,
+a word document, you know, whatever
+
+00:03:38.250 --> 00:03:41.266
+kind of design documents
+they're using to create that image.
+
+00:03:42.000 --> 00:03:45.566
+And normally it will have the text in it,
+you know, as the text needs to be
+
+00:03:45.766 --> 00:03:48.766
+kind of agreed upon before
+the image is created.
+
+00:03:50.033 --> 00:03:52.583
+Now, failing that, now,
+
+00:03:52.583 --> 00:03:56.400
+there may be some tools that can help
+you extract the text from this image.
+
+00:03:56.483 --> 00:03:57.316
+This is an image.
+
+00:03:57.316 --> 00:04:01.616
+This isn't really text,
+but if I open this on my Mac with preview,
+
+00:04:02.333 --> 00:04:06.016
+it has the ability to try to.
+
+00:04:09.616 --> 00:04:12.616
+Parse all that text so I can copy it.
+
+00:04:14.116 --> 00:04:16.766
+I'm going a copy of that text,
+
+00:04:16.766 --> 00:04:20.266
+and I don't have any idea
+whether this has formatting or anything,
+
+00:04:20.266 --> 00:04:25.550
+so I'm going to play it safe. And.
+
+00:04:31.016 --> 00:04:32.000
+Paste it in the text.
+
+00:04:32.000 --> 00:04:35.000
+Add it.
+
+00:04:44.933 --> 00:04:47.933
+I'm going to say.
+
+00:04:53.350 --> 00:04:55.666
+Do I have to go through and reformat
+
+00:04:55.666 --> 00:04:58.666
+all of this?
+
+00:05:04.966 --> 00:05:07.516
+Instead of having that
+
+00:05:07.516 --> 00:05:10.783
+there, I'm going to make this the title.
+
+00:05:10.800 --> 00:05:13.800
+I don't like how it's all caps. So.
+
+00:05:25.516 --> 00:05:27.600
+We don't need to tell them what school
+it is.
+
+00:05:27.600 --> 00:05:30.383
+They know it looks like this is an event.
+
+00:05:30.383 --> 00:05:32.816
+So honestly,
+this should probably be an event.
+
+00:05:32.816 --> 00:05:36.200
+Instead of being a news item,
+but that's okay.
+
+00:05:37.316 --> 00:05:39.916
+Maybe we can
+
+00:05:39.916 --> 00:05:42.916
+add some headers
+to make this a little more
+
+00:05:43.916 --> 00:05:45.200
+clear. What's happening?
+
+00:06:18.866 --> 00:06:21.866
+Okay, so this is a bulleted list.
+
+00:06:29.866 --> 00:06:32.866
+I need to refer to the picture to see.
+
+00:06:37.033 --> 00:06:40.100
+This is kind of referring to these lists.
+
+00:06:46.100 --> 00:06:49.100
+So let's go ahead.
+
+00:06:53.750 --> 00:06:56.750
+Make this another header.
+
+00:06:57.200 --> 00:06:57.566
+Really?
+
+00:06:57.566 --> 00:07:00.566
+This should not be all caps.
+
+00:07:02.266 --> 00:07:05.266
+We have a link here.
+
+00:07:19.666 --> 00:07:20.166
+Hashtag.
+
+00:07:20.166 --> 00:07:20.416
+You know what?
+
+00:07:20.416 --> 00:07:23.416
+I don't know what that's for.
+
+00:07:25.550 --> 00:07:26.566
+And there we go.
+
+00:07:26.566 --> 00:07:29.566
+So let's just say.
+
+00:07:32.966 --> 00:07:34.366
+Let's
+
+00:07:34.366 --> 00:07:37.366
+use that for some way.
+
+00:07:41.550 --> 00:07:43.133
+And now we have a news post
+
+00:07:43.133 --> 00:07:46.133
+that anybody can read.
+
+00:07:46.966 --> 00:07:48.150
+Regardless of whether they have
+
+00:07:48.150 --> 00:07:51.150
+a vision impairment or not.
+
+00:07:55.550 --> 00:07:58.550
+Now let's take a look at a document.
+
+00:08:04.516 --> 00:08:07.516
+You know that.
+
+00:08:07.850 --> 00:08:10.850
+Let's say I want to add a new document.
+
+00:08:12.266 --> 00:08:16.666
+And it's a flier about spring jazz
+concert.
+
+00:08:24.950 --> 00:08:27.950
+Well.
+
+00:08:29.866 --> 00:08:33.466
+We look at this,
+we see that we have once again, a
+
+00:08:34.583 --> 00:08:37.216
+similar to how an image should not have
+text.
+
+00:08:37.216 --> 00:08:40.216
+Documents should be avoided.
+
+00:08:40.516 --> 00:08:42.833
+Almost always.
+
+00:08:42.833 --> 00:08:46.066
+There are ways to make PDFs accessible,
+
+00:08:47.450 --> 00:08:49.733
+but it's a lot of work
+
+00:08:49.733 --> 00:08:52.733
+and it takes specialized knowledge.
+
+00:08:52.916 --> 00:08:55.950
+So again, just like the image,
+what we should do instead
+
+00:08:57.283 --> 00:08:58.366
+you can see it's hard.
+
+00:08:58.366 --> 00:09:00.533
+It's hard even to select this text.
+
+00:09:00.533 --> 00:09:03.266
+So imagine if you were using a screen
+reader.
+
+00:09:03.266 --> 00:09:06.283
+The screen reads Spring concert.
+
+00:09:06.283 --> 00:09:08.450
+And then it doesn't know
+where to go to next.
+
+00:09:08.450 --> 00:09:11.450
+You can see
+it wants to go down to Mount Hebron.
+
+00:09:14.033 --> 00:09:17.033
+So we're going to have to.
+
+00:09:17.950 --> 00:09:20.950
+Sort of put this in any tab.
+
+00:09:48.850 --> 00:09:49.166
+Okay.
+
+00:09:49.166 --> 00:09:52.166
+And I can't even select this text
+properly.
+
+00:11:02.266 --> 00:11:03.116
+Now, once again,
+
+00:11:03.116 --> 00:11:06.383
+I have a news message
+that can be read by everybody.
+
+00:11:08.700 --> 00:11:12.350
+We're not leaving out people
+with vision impairments.
+
+00:11:15.300 --> 00:11:18.300
+So I just want to emphasize that while
+
+00:11:18.316 --> 00:11:21.316
+I've done my best to make.
+
+00:11:22.216 --> 00:11:25.800
+Managing media easier after the upgrade,
+
+00:11:27.233 --> 00:11:30.716
+media really should be used sparingly
+because in order
+
+00:11:30.716 --> 00:11:34.500
+to make it accessible for everybody,
+it takes a lot of work.
+
+00:11:36.233 --> 00:11:38.716
+So the best thing to do is
+
+00:11:38.716 --> 00:11:41.716
+take anything
+out of a body, of any document or image
+
+00:11:42.350 --> 00:11:45.200
+and paste it into the body
+of your news item
+
+00:11:45.200 --> 00:11:48.200
+or event or anything else.
+
+00:11:49.050 --> 00:11:50.633
+While I was editing this video,
+
+00:11:50.633 --> 00:11:54.150
+I realized that I should show you a way
+
+00:11:54.150 --> 00:11:57.150
+that you can spruce up this,
+
+00:11:57.666 --> 00:12:00.233
+news post with an image
+
+00:12:00.233 --> 00:12:03.233
+while maintaining accessibility.
+
+00:12:03.750 --> 00:12:06.533
+So we have all of the copy
+that we want in here,
+
+00:12:06.533 --> 00:12:09.750
+but we would like a decorative image
+to kind of give people,
+
+00:12:10.583 --> 00:12:13.200
+you know, it's not as exciting
+
+00:12:13.200 --> 00:12:15.650
+as, you know,
+this nice, well-designed flier.
+
+00:12:17.716 --> 00:12:19.350
+And, well, we can't include the flier.
+
+00:12:19.350 --> 00:12:22.350
+What we can do.
+
+00:12:23.366 --> 00:12:25.850
+Is make an image of the flier
+
+00:12:25.850 --> 00:12:28.850
+that that removes all of the text.
+
+00:12:31.066 --> 00:12:34.066
+You may not have illustrator.
+
+00:12:40.066 --> 00:12:41.566
+But whoever created the image for
+
+00:12:41.566 --> 00:12:45.000
+you should be able to extract something
+that is decorative for the page.
+
+00:13:05.633 --> 00:13:07.583
+So now I've created an image
+
+00:13:07.583 --> 00:13:12.600
+from the flier
+that's just decorative. And.
+
+00:13:17.333 --> 00:13:19.133
+Now, this is an image
+that I could actually write
+
+00:13:19.133 --> 00:13:22.133
+some good old text for.
+
+00:13:48.500 --> 00:13:51.250
+Now we have our image in our news post.
