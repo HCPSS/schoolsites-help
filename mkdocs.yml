@@ -30,6 +30,7 @@ plugins:
 nav:
   - index.md
   - logging-in.md
+  - accessibility.md
   - tips-and-best-practices.md
   - finding-content.md
   - using-the-rich-text-editor.md
