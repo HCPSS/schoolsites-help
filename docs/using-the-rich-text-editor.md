@@ -250,4 +250,4 @@ one of these into the Rich Text Editor.
 
     You should carefully inspect your text after pasting it. Check for
     [illigitimate lists](#make-sure-your-lists-are-legitamate) and make sure
-    your headings still make sense.
+    your [headings still make sense](#heading-level).
