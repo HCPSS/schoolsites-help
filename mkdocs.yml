@@ -1,5 +1,7 @@
 site_name: HCPSS School Site
 theme:
+  features:
+    - navigation.expand
   name: material
   icon:
     tag:
@@ -17,6 +19,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - tags
   - mkdocs-video:
@@ -29,25 +36,29 @@ plugins:
         height: "32vw"
 nav:
   - index.md
-  - logging-in.md
-  - accessibility.md
-  - tips-and-best-practices.md
-  - finding-content.md
-  - using-the-rich-text-editor.md
-  - tagging-content.md
-  - resources.md
+  - Foundational Concepts:
+    - accessibility.md
+    - tips-and-best-practices.md
+  - Getting Started:
+    - logging-in.md
+    - finding-content.md
+    - using-the-rich-text-editor.md
+    - tagging-content.md
+    - Cloning Content: clone-content.md
+  #- content-model.md
   - Creating and Managing Content:
     - News: creating-and-editing-news-messages.md
     - Events: creating-and-editing-events.md
     - Staff Lists: creating-and-managing-staff-lists.md
-  - Advanced Topics:
+    - resources.md
     - Media: adding-and-managing-media.md
     - Homepage Highlights: managing-homepage-highlights.md
-    - Cloning Content: clone-content.md
-    - Newsletters: creating-newsletter.md
     - advanced-pages.md
-    - adding-hcpss-content.md
-    - adding-content-from-another-school.md
+
+    #- Newsletters: creating-newsletter.md
+
+    #- adding-hcpss-content.md
+    #- adding-content-from-another-school.md
   - faq.md
 extra_css:
   - stylesheets/extra.css
