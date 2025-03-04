@@ -1,5 +1,7 @@
 # Managing Homepage Highlights
 
+## Using the Context Menu
+
 To edit your homepage highlights activate the context menu by hover over the
 highlights area and clicking on the pencil icon.
 
@@ -13,6 +15,12 @@ right of any content you can edit.
 Click on the icon and then *Edit Highlights*.
 
 ![Edit Highlights link](../images/highlight-context-menu.png)
+
+## Using the Dashboard
+
+There us a link to edit your homepage highlights on your dashboard.
+
+![Link to edit homepage highlights](../images/highlights-on-dashboard.png)
 
 ## Reorder Highlights
 
