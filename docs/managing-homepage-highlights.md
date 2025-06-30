@@ -34,7 +34,7 @@ You can reorder the highlights by dragging them and dropping them.
 
 You can remove a highlight by clicking *Remove* on any of them.
 
-![](../images/remove-highlight.png)
+![Remove button](../images/remove-highlight.png)
 
 ## Add a Highlight
 
