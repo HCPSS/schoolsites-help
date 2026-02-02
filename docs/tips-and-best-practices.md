@@ -41,7 +41,8 @@ linking between them.
 
 ### Digestible
 
-Use headings, bullets, and lists to make information quick and easy to read.
+Use headings, bullets, and lists to make information quick and easy to scan.
+[Read more about makeing your content scannable.](writing-for-the-web.md#scanable)
 
 Be brief, but thorough (use lists and short paragraphs (1-2 sentences)).
 
@@ -107,14 +108,3 @@ then link to the relevant page(s) on the HCPSS website.
     it’s important to complete Family File. You could then link to the page on the
     HCPSS website that includes step-by-step directions on how to create and edit
     Family File.
-
-## Writing for the Web
-
-Content should be easy to read and scan.
-
-* Keeping paragraphs short (2-3 sentences).
-* Using bold, italics, headings, and lists to call visual attention to key
-  information.
-
-See Towson University's [Writing for the Web](https://www.towson.edu/web-guidelines-resources/content-standards-best-practices/writing/)
-for more information about effective writing for the web.

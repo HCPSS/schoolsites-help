@@ -39,6 +39,7 @@ nav:
   - Foundational Concepts:
     - accessibility.md
     - tips-and-best-practices.md
+    - writing-for-the-web.md
   - Getting Started:
     - logging-in.md
     - finding-content.md
@@ -55,6 +56,7 @@ nav:
     - Homepage Highlights: managing-homepage-highlights.md
     - advanced-pages.md
     - newsletter-builder.md
+    - school-supply-list.md
 
     #- Newsletters: creating-newsletter.md
 
