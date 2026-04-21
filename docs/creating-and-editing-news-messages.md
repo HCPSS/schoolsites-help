@@ -1,11 +1,14 @@
 ---
-tags:
-  - updated
 ---
 # Creating and Editing News Messages
 
 News messages are a key way to highlight new or existing information on your
-school website.
+school website. They are great for time-sensitive information.
+
+!!! note
+    Because news messages are for time-sensitive information, they are
+    automatically unpublished after 10 months. You can read more about that in
+    the [News Message Lifecycle](#news-message-lifecycle) section.
 
 ## Creating News Messages
 
@@ -72,3 +75,14 @@ will now appear as the first item on your “News” page. It will also
 automatically be published to the HCPSS app and be assigned a unique URL, which
 you can share on social media, include in school messages, etc. You can also pin
 your news message to your homepage as a homepage highlight.
+
+## News Message Lifecycle
+
+News messages are automatically unpublished after 10 months. There are a couple
+of reasons for this.
+
+1. Old news items will still show up in search results, potentially leading to
+   confusion.
+2. We are legally required to ensure all content on our websites is accessible
+   to people with disabilities. We don't want to spend time and resources
+   auditing and remediating content that is no longer relevant.
