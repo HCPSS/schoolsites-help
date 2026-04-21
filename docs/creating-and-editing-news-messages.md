@@ -86,3 +86,9 @@ of reasons for this.
 2. We are legally required to ensure all content on our websites is accessible
    to people with disabilities. We don't want to spend time and resources
    auditing and remediating content that is no longer relevant.
+
+!!! tip "Your Old News Messages Are Not Lost"
+    News messages are only unpublished, they are not deleted. You can always
+    find the news messages in the [Content Overview](finding-content.md#using-the-content-overview).
+    To create a new news message with the same content as the old one, use the
+    [clone feature](clone-content.md).
