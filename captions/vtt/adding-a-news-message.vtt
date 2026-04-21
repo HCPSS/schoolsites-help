@@ -1,0 +1,209 @@
+﻿WEBVTT
+
+00:00:00.000 --> 00:00:03.001
+Two ways to add a new news message.
+
+00:00:03.234 --> 00:00:06.769
+The first is to go to dashboard,
+and here in your news block,
+
+00:00:07.569 --> 00:00:10.570
+click Add.
+
+00:00:10.754 --> 00:00:14.922
+The second is to go to the news
+listing on the front end
+
+00:00:15.973 --> 00:00:18.974
+and click Add News message.
+
+00:00:19.691 --> 00:00:22.909
+This example
+I'm going to use a news message
+
+00:00:22.909 --> 00:00:25.910
+in from a Google document.
+
+00:00:25.960 --> 00:00:28.794
+So I'm going to copy it.
+
+00:00:28.794 --> 00:00:31.796
+And then if I paste it in here
+
+00:00:32.179 --> 00:00:36.081
+I'm going to get a bunch of Google
+Doc formatting.
+
+00:00:36.081 --> 00:00:37.765
+And I don't want that.
+
+00:00:37.765 --> 00:00:40.633
+So I am going to go to text edit.
+
+00:00:40.633 --> 00:00:45.051
+You can use notepad if you're on a PC.
+
+00:00:46.252 --> 00:00:49.253
+Make sure you are in.
+
+00:00:51.204 --> 00:00:53.905
+Plain text mode.
+
+00:00:53.905 --> 00:00:56.889
+I want to paste it in there.
+
+00:00:57.323 --> 00:01:00.024
+I'm going to copy it out again.
+
+00:01:00.024 --> 00:01:03.408
+And now this time when I copy it,
+it's all the formatting is gone.
+
+00:01:04.826 --> 00:01:07.810
+So I'm
+going to paste it into the body here.
+
+00:01:08.544 --> 00:01:11.545
+And now I need to reformat this.
+
+00:01:23.533 --> 00:01:26.534
+I'm going to delete this welcome sentence.
+
+00:01:27.435 --> 00:01:30.653
+We want our writing on the web
+to be very,
+
+00:01:31.637 --> 00:01:34.638
+you know, straightforward and very quick.
+
+00:01:35.155 --> 00:01:38.239
+We need to have a title for this.
+
+00:01:42.041 --> 00:01:45.042
+And a summary.
+
+00:01:50.061 --> 00:01:52.762
+And we need to get our
+
+00:01:52.762 --> 00:01:55.763
+links back.
+
+00:02:17.922 --> 00:02:19.973
+And now here we have the tags.
+
+00:02:19.973 --> 00:02:25.908
+Now, this is completely optional, but
+what you can do is you can tag your news
+
+00:02:25.908 --> 00:02:28.910
+posts, with,
+
+00:02:29.110 --> 00:02:32.028
+the kind of the categories
+that it would fit in.
+
+00:02:32.028 --> 00:02:35.779
+You can tag it with, you know, things
+that are mentioned in the news post.
+
+00:02:35.779 --> 00:02:38.780
+And that way people can easily
+find related
+
+00:02:38.864 --> 00:02:41.665
+related content
+
+00:02:41.665 --> 00:02:43.966
+content related to your news post.
+
+00:02:43.966 --> 00:02:48.884
+So this is about, let's say,
+create a new one because this is about
+
+00:02:50.335 --> 00:02:55.004
+2025 to 2026
+
+00:02:56.471 --> 00:02:58.005
+school year.
+
+00:02:58.005 --> 00:03:00.639
+We can have multiple tabs
+or multiple tags.
+
+00:03:00.639 --> 00:03:03.640
+All we have to do
+is put a comma between them.
+
+00:03:04.307 --> 00:03:06.375
+And this is also about forms.
+
+00:03:06.375 --> 00:03:09.376
+So if people are looking for,
+you know, news posts about forms,
+
+00:03:10.393 --> 00:03:12.827
+they can easily find them.
+
+00:03:12.827 --> 00:03:15.462
+Also, if we want to
+we can leave this unpublished.
+
+00:03:15.462 --> 00:03:20.447
+Let's say, you know, I got halfway through
+working on this and I got pulled away.
+
+00:03:20.447 --> 00:03:23.448
+Or, you know,
+the content is still in flux.
+
+00:03:24.049 --> 00:03:26.033
+I can leave it unpublished.
+
+00:03:26.033 --> 00:03:28.700
+Click save.
+
+00:03:28.700 --> 00:03:33.036
+And now when I go to my dashboard,
+I can see it's still there.
+
+00:03:33.052 --> 00:03:36.053
+But as you saw.
+
+00:03:36.954 --> 00:03:39.955
+It's not showing to the public.
+
+00:03:40.639 --> 00:03:42.439
+When I'm ready to publish it.
+
+00:03:42.439 --> 00:03:45.157
+I can go back and edit
+
+00:03:45.157 --> 00:03:47.358
+it, publish and save.
+
+00:03:49.425 --> 00:03:51.610
+Now when we view this, we can see.
+
+00:03:51.610 --> 00:03:54.611
+Here are the tags. So we click on farms.
+
+00:03:55.194 --> 00:03:58.179
+All we see here
+is obviously our one news item.
+
+00:03:58.362 --> 00:04:01.364
+But if there were more tagged with farms
+we would see all of them.
+
+00:04:05.332 --> 00:04:08.333
+Your new news message is also going to be
+
+00:04:08.683 --> 00:04:11.684
+posted to the app,
+
+00:04:12.652 --> 00:04:16.386
+and it has its own URL here,
+so you can copy and paste this into a
+
+00:04:16.403 --> 00:04:17.437
+social media post.
