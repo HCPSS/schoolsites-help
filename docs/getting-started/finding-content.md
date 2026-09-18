@@ -1,7 +1,7 @@
 # Finding Content
 
 <video style="width: 100%" loop="" muted="" controls="" alt="type:video">
-    <source src="../videos/finding-content.mp4" type="video/mp4">
+    <source src="../../videos/finding-content.mp4" type="video/mp4">
     <track label="English" kind="subtitles" srclang="en" src="../captions/vtt/find-content.vtt" default>
 </video>
 
