@@ -137,7 +137,7 @@ This gives you a Rich Content block where you can enter any text you would like.
 ![WYSIWYG](images/wysiwyg-content-block.png)
 
 For more information on how to use the rich text editor see 
-[Using the Rich Text Editor](using-the-rich-text-editor.md).
+[Using the Rich Text Editor](getting-started/using-the-rich-text-editor.md).
 
 #### Community Events
 

@@ -2,6 +2,8 @@ site_name: HCPSS School Sites Documentation
 theme:
   features:
     - navigation.expand
+    - navigation.footer
+    - navigation.indexes
   name: material
   icon:
     tag:
@@ -36,16 +38,16 @@ plugins:
         height: "32vw"
 nav:
   - index.md
+  - Getting Started:
+    - getting-started/index.md
+    - getting-started/what-are-web-managers-being-asked-to-do.md
+    - getting-started/logging-in.md
+    - getting-started/finding-content.md
+    - getting-started/using-the-rich-text-editor.md
   - Foundational Concepts:
     - accessibility.md
     - tips-and-best-practices.md
     - writing-for-the-web.md
-  - Getting Started:
-    - logging-in.md
-    - finding-content.md
-    - using-the-rich-text-editor.md
-    - tagging-content.md
-    - Cloning Content: clone-content.md
   #- content-model.md
   - Creating and Managing Content:
     - News: creating-and-editing-news-messages.md
@@ -57,6 +59,8 @@ nav:
     - advanced-pages.md
     - newsletter-builder.md
     - school-supply-list.md
+    - tagging-content.md
+    - Cloning Content: clone-content.md
 
     #- Newsletters: creating-newsletter.md
 

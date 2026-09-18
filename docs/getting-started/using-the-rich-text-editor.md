@@ -126,7 +126,7 @@ one of the list buttons will be activated.
 
 Use the *Insert Media* button to insert images and documents
 
-For more information about inserting set the [manage media](adding-and-managing-media.md) section.
+For more information about inserting set the [manage media](../adding-and-managing-media.md) section.
 
 ### Insert Image
 

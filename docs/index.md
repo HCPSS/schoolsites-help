@@ -1,5 +1,9 @@
 # Overview
 
+!!! question "Are you a new Web Manager?"
+
+    Check out the [Getting Started](getting-started/index.md) section!
+
 Each HCPSS school has its own website, designed to house and make publicly 
 available information specific to the mission of the school.
 

@@ -42,7 +42,7 @@ linking between them.
 ### Digestible
 
 Use headings, bullets, and lists to make information quick and easy to scan.
-[Read more about makeing your content scannable.](writing-for-the-web.md#scanable)
+[Read more about makeing your content scannable.](writing-for-the-web.md)
 
 Be brief, but thorough (use lists and short paragraphs (1-2 sentences)).
 

@@ -1,7 +1,5 @@
 # Accessibility
 
-
-
 ## What is Web Accessibility?
 
 From the [The World Wide Web Consortium](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what):
@@ -76,7 +74,7 @@ Many assistive technologies, like screen readers, analyze on a web page's
 **text** and **structure** to allow the user to navigate through the content.
 [This video is a great introcution to the use of screen readers](https://www.youtube.com/watch?v=7Rs3YpsnfoI).
 
-  - **Headings**: [ensure your headings are noted in a clear hierarchical order](using-the-rich-text-editor.md#heading-level),
+  - **Headings**: [ensure your headings are noted in a clear hierarchical order](getting-started/using-the-rich-text-editor.md#heading-level),
     built up of one h1 (the page title), multiple h2’s which are used to outline
     the main sections, with h3 and other headings used to display sub-sections
     within a main topic.
@@ -84,7 +82,7 @@ Many assistive technologies, like screen readers, analyze on a web page's
     all the links. So make sure your links have meaningfull text. Avoid "click
     here" or "read more". Instead use phrases like "Read the principal's
     letter" or "Policy 90200".
-  - **Lists**: [Make sure your lists are ligitmate](using-the-rich-text-editor.md#make-sure-your-lists-are-legitamate).
+  - **Lists**: [Make sure your lists are ligitmate](getting-started/using-the-rich-text-editor.md#make-sure-your-lists-are-legitamate).
     Just because it looks like a numbered list doesn't mean it is.
 
 !!! warning "Images cannot contain structure"
@@ -97,7 +95,7 @@ Many assistive technologies, like screen readers, analyze on a web page's
 
 The HCPSS Multimedia Communications team has build the school websites with
 accessibility in mind. The only time a Web Manager has the ability to affect
-accessibility is when using the [Rich Text Editor](using-the-rich-text-editor.md).
+accessibility is when using the [Rich Text Editor](getting-started/using-the-rich-text-editor.md).
 
 ### Only Use Images When Neccessary
 
@@ -112,7 +110,7 @@ Never post images that contain alot of text. If an image contains text, you must
 put all the text into the alternative text, but you will not be able to provide
 any structure. For example:
 
-![Inaccessible flier that contains alot of text including a list of dates](../images/mt-hebron-marching-unit.jpg)
+![Inaccessible flier that contains alot of text including a list of dates](images/mt-hebron-marching-unit.jpg)
 
 This image contains critical information that all users need. It has a heading
 "Showcase of Bands" and a list of times and locations, but a screen reader can't

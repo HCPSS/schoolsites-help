@@ -1,7 +1,3 @@
----
-tags:
-  - new
----
 # Clone Content
 
 You can easily create new content based on old content using the new *Clone*

@@ -1,7 +1,3 @@
----
-tags:
-  - updated
----
 # Finding Content
 
 <video style="width: 100%" loop="" muted="" controls="" alt="type:video">
