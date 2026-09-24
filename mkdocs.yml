@@ -40,6 +40,7 @@ nav:
   - index.md
   - Getting Started:
     - getting-started/index.md
+    - A Tour of Your School's Website: getting-started/tour.md
     - getting-started/what-are-web-managers-being-asked-to-do.md
     - getting-started/logging-in.md
     - getting-started/finding-content.md
@@ -55,6 +56,7 @@ nav:
     - Staff Lists: creating-and-managing-staff-lists.md
     - resources.md
     - Media: adding-and-managing-media.md
+    - programs.md
     - Homepage Highlights: managing-homepage-highlights.md
     - advanced-pages.md
     - newsletter-builder.md
