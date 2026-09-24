@@ -1,6 +1,6 @@
 # Clubs, Teams, Honor Societies, and Graduating Classes
 
-!!! note
+!!! info
     This information is only relevant to high schools.
 
 Clubs, Teams, Honor Societies, and Graduating Classes are each content types 
