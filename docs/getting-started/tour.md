@@ -15,7 +15,10 @@ maintain consistency.
 There are 4 types of items in the menu:
 
 1. :material-pencil: Pages that you can edit directly
-2. :material-format-list-text: Pages that are a dynamic view of content
+2. :material-format-list-text: Pages that are a dynamic view of content, These 
+   are pages that are not directly edited. Instead, they simply display a 
+   collection of content. For example, the *News* page shows a list of all news
+   items.   
 3. :material-lock: Pages that are managed centrally and cannot be edited
 4. :material-open-in-new: Links to external resources
 
@@ -43,7 +46,9 @@ have some that are not listed here.
       the Multimedia Communications team to be consistent across all school 
       sites.
 - **News** :material-format-list-text: This is a list of your News messages, 
-  most recent first. So it is nor directly editable. 
+  most recent first. The individual news messages are editable, but the News 
+  page itself is not. You should be regularly adding news items and they will
+  show up here.
   [Read more about News messages](../creating-and-editing-news-messages.md).
 - **Calendar** :material-format-list-text: The calendar contains your events.
   [Read more about events](../creating-and-editing-events.md).
@@ -75,7 +80,9 @@ have some that are not listed here.
     - **School Improvement Plan** :material-pencil: You should update this page
       whenever you get a new SIP.
 - **News** :material-format-list-text: This is a list of your News messages,
-  most recent first. So it is nor directly editable.
+  most recent first. The individual news messages are editable, but the News 
+  page itself is not. You should be regularly adding news items and they will
+  show up here.
   [Read more about News messages](../creating-and-editing-news-messages.md).
 - **Calendar** :material-format-list-text: The calendar contains your events.
   [Read more about events](../creating-and-editing-events.md).

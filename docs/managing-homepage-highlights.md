@@ -16,6 +16,9 @@ right of any content you can edit.
 
 Click on the icon and then *Edit Highlights*.
 
+!!! Tip
+    [Read more about the context menu here.](getting-started/using-the-context-menu.md)
+
 ![Edit Highlights link](images/highlight-context-menu.png)
 
 ### Using the Dashboard

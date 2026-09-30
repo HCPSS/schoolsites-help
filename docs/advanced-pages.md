@@ -14,7 +14,7 @@ edited, but others can be edited.
 
 Advanced pages only contain a title and one other field called 
 **Content Blocks**. Here you can add content from elsewhere on the site or other
-structured content. You can have as many as you want.
+structured content. You can have as many *Content Blocks* as you want.
 
 To add a content block select the type from the select list.
 
