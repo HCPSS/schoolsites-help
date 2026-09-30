@@ -44,8 +44,8 @@ nav:
     - getting-started/what-are-web-managers-being-asked-to-do.md
     - getting-started/logging-in.md
     - getting-started/finding-content.md
-    - getting-started/using-the-rich-text-editor.md
     - getting-started/using-the-context-menu.md
+    - getting-started/using-the-rich-text-editor.md
   - Foundational Concepts:
     - accessibility.md
     - tips-and-best-practices.md
